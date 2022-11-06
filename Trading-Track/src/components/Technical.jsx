@@ -1,6 +1,8 @@
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
+import Market_Data from "./Market_Data";
+
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
@@ -18,11 +20,11 @@ const FeatureCard = ({ icon, title, content, index }) => (
   </div>
 );
 
-const Business = () => (
+const Technical = () => (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Getting started with, <br className="sm:block hidden" /> the market data.
+        Getting started with, <br className="sm:block hidden" /> Technical Analysis.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         With the right direction of market, you can get proper data qith quotes and analysis for your trades
@@ -32,11 +34,13 @@ const Business = () => (
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
-      {features.map((feature, index) => (
+      <Market_Data />
+
+      {/* {features.map((feature, index) => (
         <FeatureCard key={feature.id} {...feature} index={index} />
-      ))}
+      ))} */}
     </div>
   </section>
 );
 
-export default Business;
+export default Technical;
