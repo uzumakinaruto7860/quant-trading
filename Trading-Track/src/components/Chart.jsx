@@ -17,7 +17,8 @@ const Chart = () => {
                 hide_side_toolbar="true"
                 hide_top_toolbar="true"
                 show_popup_button='true'
-                // hide_legend="true"
+
+            // hide_legend="true"
             >
 
             </AdvancedRealTimeChart>
