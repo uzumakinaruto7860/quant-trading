@@ -1,37 +1,83 @@
 import styles from "./style";
-import { Ticker, Video, Technical, Market_Overview, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
+import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News } from "./components";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Chart from "./components/Chart";
 const App = () => (
-  <div className="bg-primary w-full overflow-hidden">
-    <Ticker />
+  <Router>
+    <div className="bg-primary w-full overflow-hidden">
 
 
-    <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-      <div className={`${styles.boxWidth}`}>
-        <Navbar />
-      </div>
+      <Routes>
+        {/* ////////////////Route /        ////////////////////////////////////////// */}
+        <Route path="/" element={<>
+          <Ticker />
+          <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+            <div className={`${styles.boxWidth}`}>
+              <Navbar />
+            </div>
+          </div>
+
+          <div className={`bg-primary ${styles.flexStart}`}>
+            <div className={`${styles.boxWidth}`}>
+              <Hero />
+            </div>
+          </div>
+
+
+          <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
+            <div className={`${styles.boxWidth}`}>
+
+              <Stats />
+              <Video />
+              <News />
+              <Market_Overview />
+              <Technical />
+              <Prediction />
+              <Testimonials />
+              <Clients />
+              <CTA />
+              <Footer />
+            </div>
+          </div>
+        </>} />
+        {/* //////////////////Route /home      //////////////////////////////// */}
+        <Route path="/home" element={<>
+          <Ticker />
+          <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+            <div className={`${styles.boxWidth}`}>
+              <Navbar />
+            </div>
+          </div>
+
+          <div className={`bg-primary ${styles.flexStart}`}>
+            <div className={`${styles.boxWidth}`}>
+              <Hero />
+            </div>
+          </div>
+
+          <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
+            <div className={`${styles.boxWidth}`}>
+
+              <Stats />
+              <Video />
+              <News />
+              <Market_Overview />
+              <Technical />
+              <Prediction />
+              <Testimonials />
+              <Clients />
+              <CTA />
+              <Footer />
+            </div>
+          </div>
+        </>} />
+        {/* //////////////////////Route /charts  ///////////////////////////////*/}
+        <Route path="/charts" element={<Chart />} />
+
+          
+      </Routes>
     </div>
-
-    <div className={`bg-primary ${styles.flexStart}`}>
-      <div className={`${styles.boxWidth}`}>
-        <Hero />
-      </div>
-    </div>
-
-
-    <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
-      <div className={`${styles.boxWidth}`}>
-        <Stats />
-        <Video />
-        <Market_Overview />
-        <Technical />
-        <CardDeal />
-        <Testimonials />
-        <Clients />
-        <CTA />
-        <Footer />
-      </div>
-    </div>
-  </div>
+  </Router >
 );
 
 export default App;

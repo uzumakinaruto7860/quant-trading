@@ -1,8 +1,8 @@
-import { card } from "../assets";
+import { pred } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () => (
+const Prediction = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
@@ -16,9 +16,11 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
+
+      <img src={pred} alt="billing" className="w-[100%] h-[100%] rounded-[20px]
+" />
     </div>
   </section>
 );
 
-export default CardDeal;
+export default Prediction;

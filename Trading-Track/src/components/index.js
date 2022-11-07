@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 import Billing from "./Market_Overview";
-import CardDeal from "./CardDeal";
+import Prediction from "./Prediction";
 import Business from "./Technical";
 import Clients from "./Clients";
 import CTA from "./CTA";
@@ -12,10 +12,11 @@ import Market_Overview from "./Market_Overview";
 import Video from "../components/Video";
 import Technical from "../components/Technical";
 import Ticker from "./Ticker";
+import News from "./News";
 export {
   Navbar,
   Billing,
-  CardDeal,
+  Prediction,
   Business,
   Clients,
   CTA,
@@ -27,4 +28,5 @@ export {
   Video,
   Technical,
   Ticker,
+  News,
 };

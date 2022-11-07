@@ -1,15 +1,14 @@
 import { useState } from "react";
 
-import { close, menu, logo } from "../assets";
+import { close, menu } from "../assets";
 import { navLinks } from "../constants";
-
 const Navbar = () => {
-  const [active, setActive] = useState("Home");
+  const [active, setActive] = useState("home");
   const [toggle, setToggle] = useState(false);
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <img src={logo} alt="Trading-Track" className="w-[124px] h-[32px]" />
+      <a className="w-[250px] h-[32px] font-medium leading-tight text-3xl mt-0 mb-2 text-white cursor-pointer" onClick={() => { setActive("home"); console.log("logo clicked") }} >Trading-Track</a>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
@@ -19,7 +18,7 @@ const Navbar = () => {
               } ${index === navLinks.length - 1 ? "mr-0" : "mr-10"}`}
             onClick={() => setActive(nav.title)}
           >
-            <a href={`#${nav.id}`}>{nav.title}</a>
+            <a href={`${nav.id}`}>{nav.title}</a>
           </li>
         ))}
       </ul>
@@ -44,7 +43,7 @@ const Navbar = () => {
                   } ${index === navLinks.length - 1 ? "mb-0" : "mb-4"}`}
                 onClick={() => setActive(nav.title)}
               >
-                <a href={`#${nav.id}`}>{nav.title}</a>
+                <a href={`${nav.id}`}>{nav.title}</a>
               </li>
             ))}
           </ul>
