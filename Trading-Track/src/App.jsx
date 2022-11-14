@@ -2,82 +2,89 @@ import styles from "./style";
 import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News } from "./components";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
-const App = () => (
-  <Router>
-    <div className="bg-primary w-full overflow-hidden">
+// import Guage from "./components/Gauge";
+// import { useMemo } from "react";
+const App = () => {
+  // useMemo(() => Ticker, [])
+
+  return (
+    < Router >
+      <div className="bg-primary w-full overflow-hidden">
 
 
-      <Routes>
-        {/* ////////////////Route /        ////////////////////////////////////////// */}
-        <Route path="/" element={<>
-          <Ticker />
-          <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-            <div className={`${styles.boxWidth}`}>
-              <Navbar />
+        <Routes>
+          {/* ////////////////Route /        ////////////////////////////////////////// */}
+          <Route path="/" element={<>
+            {/* <Guage /> */}
+            <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+              <div className={`${styles.boxWidth}`}>
+                <Navbar />
+              </div>
             </div>
-          </div>
+            <Ticker />
 
-          <div className={`bg-primary ${styles.flexStart}`}>
-            <div className={`${styles.boxWidth}`}>
-              <Hero />
+            <div className={`bg-primary ${styles.flexStart}`}>
+              <div className={`${styles.boxWidth}`}>
+                <Hero />
+              </div>
             </div>
-          </div>
 
 
-          <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
-            <div className={`${styles.boxWidth}`}>
+            <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
+              <div className={`${styles.boxWidth}`}>
 
-              <Stats />
-              <Video />
-              <News />
-              <Market_Overview />
-              <Technical />
-              <Prediction />
-              <Testimonials />
-              <Clients />
-              <CTA />
-              <Footer />
+                <Stats />
+                <Video />
+                <News />
+                <Market_Overview />
+                <Technical />
+                <Prediction />
+                <Testimonials />
+                <Clients />
+                <CTA />
+                <Footer />
+              </div>
             </div>
-          </div>
-        </>} />
-        {/* //////////////////Route /home      //////////////////////////////// */}
-        <Route path="/home" element={<>
-          <Ticker />
-          <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-            <div className={`${styles.boxWidth}`}>
-              <Navbar />
+          </>} />
+          {/* //////////////////Route /home      //////////////////////////////// */}
+          <Route path="/home" element={<>
+            <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+              <div className={`${styles.boxWidth}`}>
+                <Navbar />
+              </div>
             </div>
-          </div>
+            <Ticker />
 
-          <div className={`bg-primary ${styles.flexStart}`}>
-            <div className={`${styles.boxWidth}`}>
-              <Hero />
+            <div className={`bg-primary ${styles.flexStart}`}>
+              <div className={`${styles.boxWidth}`}>
+                <Hero />
+              </div>
             </div>
-          </div>
 
-          <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
-            <div className={`${styles.boxWidth}`}>
+            <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
+              <div className={`${styles.boxWidth}`}>
 
-              <Stats />
-              <Video />
-              <News />
-              <Market_Overview />
-              <Technical />
-              <Prediction />
-              <Testimonials />
-              <Clients />
-              <CTA />
-              <Footer />
+                <Stats />
+                <Video />
+                <News />
+                <Market_Overview />
+                <Technical />
+                <Prediction />
+                <Testimonials />
+                <Clients />
+                <CTA />
+                <Footer />
+              </div>
             </div>
-          </div>
-        </>} />
-        {/* //////////////////////Route /charts  ///////////////////////////////*/}
-        <Route path="/charts" element={<Chart />} />
+          </>} />
+          {/* //////////////////////Route /charts  ///////////////////////////////*/}
+          <Route path="/charts" element={<Chart />} />
 
-          
-      </Routes>
-    </div>
-  </Router >
-);
+
+        </Routes>
+      </div>
+    </Router >
+  );
+}
 
 export default App;

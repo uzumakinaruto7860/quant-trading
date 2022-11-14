@@ -1,5 +1,7 @@
 import styles, { layout } from "../style";
 import { MarketOverview } from "react-ts-tradingview-widgets";
+import Gauge from "components-gauge";
+import React, { Component } from "react";
 
 
 const Market_Overview = () => (
@@ -7,7 +9,6 @@ const Market_Overview = () => (
     <div className={layout.sectionImgReverse}>
 
       <MarketOverview colorTheme="dark" height={400} width={600} showFloatingTooltip ></MarketOverview>
-
 
     </div>
 

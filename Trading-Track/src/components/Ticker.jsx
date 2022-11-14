@@ -1,15 +1,16 @@
 import React from 'react'
 import { TickerTape } from "react-ts-tradingview-widgets";
+import Chart from './Chart';
 
 
 const Ticker = () => {
 
+
     return (
 
 
-
         <div>
-            <TickerTape colorTheme="dark" isTransparent={true} showSymbolLogo={true} largeChartUrl={false}
+            <TickerTape colorTheme="dark" isTransparent={true} showSymbolLogo={true} largeChartUrl="google.com" displayMode={'adaptive'}
                 symbols={[
                     {
                         "proName": "FX_IDC:PKRUSD",
