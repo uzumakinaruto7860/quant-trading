@@ -38,7 +38,7 @@ const News = () => (
                             <div className="inline-block px-3">
                                 <div
                                     className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md bg-purple-400 hover:shadow-xl transition-shadow duration-300 ease-in-out"
-                                ></div>
+                                >Last card</div>
                             </div>
                         </div>
                     </div>
