@@ -8,22 +8,25 @@ const News = () => {
     const [news, setNews] = useState([])
     const response = {};
     useEffect(() => {
+        const getData = async () => {
+            const options = {
+                method: 'GET',
+                headers: {
+                    'X-RapidAPI-Key': 'f4693e8cacmshf1cb4bdb462146bp121510jsne55367585024',
+                    'X-RapidAPI-Host': 'seeking-alpha.p.rapidapi.com'
+                }
+            };
 
-        const options = {
-            method: 'GET',
-            headers: {
-                'X-RapidAPI-Key': 'f4693e8cacmshf1cb4bdb462146bp121510jsne55367585024',
-                'X-RapidAPI-Host': 'seeking-alpha.p.rapidapi.com'
-            }
-        };
+            fetch('https://seeking-alpha.p.rapidapi.com/news/v2/list-trending?until=0&since=0&size=20', options)
+                .then(response => response.json())
+                .then(response => setNews(...news, response.data))
+                .catch(err => console.error(err));
 
-        fetch('https://seeking-alpha.p.rapidapi.com/news/v2/list-trending?until=0&since=0&size=20', options)
-            .then(response => response.json())
-            .then(response => setNews(response.data))
-            .catch(err => console.error(err));
+        }
+        getData();
 
     }, [])
-    // console.log(news[0].attributes.title);
+    console.log(news[0]);
 
     return (
         <>
@@ -39,11 +42,11 @@ const News = () => {
                                 className="flex flex-nowrap lg:ml-40 md:ml-20 ml-10 "
                             >
                                 {news.map((eachNews) => {
-                                    console.log(eachNews.attributes.titles)
+                                    // console.log(eachNews.attributes.titles)
                                     return <div className="inline-block px-3">
                                         <div
-                                            className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md bg-green-400 hover:shadow-xl transition-shadow duration-300 ease-in-out"
-                                        >{eachNews.attributes.titles}</div>
+                                            className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md bg-blue-500 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                                        >{<h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid eum animi alias quis qui omnis quia quasi nemo voluptatum architecto provident itaque ad, quo ullam ipsum consequatur commodi neque distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, aliquam.</h1>}</div>
                                     </div>
                                 })}
 
@@ -56,10 +59,10 @@ const News = () => {
 
                 <div className={layout.sectionInfo}>
                     <h2 className={styles.heading2}>
-                        Get market Overview on <br className="sm:block hidden" /> snap of your fingers.
+                        Get market News on <br className="sm:block hidden" /> snap of your fingers.
                     </h2>
                     <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                        Maket Overview plays a role in deciding the volatility of market. Track the news to properly handle your trades and get rid of high volatility times for a low risk of capital liquidity
+                        Maket News plays a role in deciding the volatility of market. Track the news to properly handle your trades and get rid of high volatility times for a low risk of capital liquidity
                     </p>
 
                 </div>

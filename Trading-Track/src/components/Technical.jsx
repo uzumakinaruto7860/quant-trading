@@ -1,3 +1,4 @@
+import TechnicalAnalysis from "./Technical_Analysis";
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
@@ -34,7 +35,7 @@ const Technical = () => (
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
-      <Market_Data />
+      <TechnicalAnalysis />
 
       {/* {features.map((feature, index) => (
         <FeatureCard key={feature.id} {...feature} index={index} />

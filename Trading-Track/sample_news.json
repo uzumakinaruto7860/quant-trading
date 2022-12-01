@@ -1,0 +1,2212 @@
+[
+    {
+        "id": "3907597",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T19:28:32-05:00",
+            "isLockedPro": false,
+            "commentCount": 92,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341676182/image_1341676182.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "consumer": {
+                    "path": "/market-news/consumer",
+                    "slug": "consumer",
+                    "title": "Consumer ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                }
+            },
+            "title": "Jeff Bezos says he’ll donate bulk of $124B fortune, advises Americans ‘take risk off the table’",
+            "lastModified": "2022-11-14T19:28:39-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Jeff Bezos declared he plans to donate most of his $124B wealth to charity even as he warned that individuals should “keep some dry powder on hand” against a deteriorating macro backdrop.</p> <p><a href=\"https://www.forbes.com/real-time-billionaires/#774fbde43d78\" target=\"_blank\">The fourth richest<span class=\"paywall-full-content\"> man in the world</span></a><span class=\"paywall-full-content\">’s affirmative response to a question about donating the bulk of his sizable fortune grabbed headlines across the globe on Monday, marking the first time Bezos has made such a pledge. Bezos had previously been roundly criticized for failing to sign The Giving Pledge, an initiative started by Warren Buffett and Bill Gates whereby affluent individuals promise to donate a majority of their wealth. MacKenzie Scott, Bezos’ ex-wife, </span><a href=\"https://www.npr.org/2019/05/28/727612204/mackenzie-bezos-pledges-to-give-more-than-half-of-her-billions-to-charity\" target=\"_blank\" class=\"paywall-full-content\">signed the pledge in 2019</a><span class=\"paywall-full-content\">. </span></p> <p class=\"paywall-full-content\">Elsewhere, Bezos offered general advice on risk management to reinforce his “<a href=\"https://twitter.com/JeffBezos/status/1582517044020273152?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1582517044020273152%7Ctwgr%5E452496e56e66851f248805b0d2efed53dd888593%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.cnbc.com%2F2022%2F10%2F19%2Famazon-founder-jeff-bezos-warns-its-time-to-batten-down-the-hatches.html\" target=\"_blank\">batten down the hatches” tweet</a> in mid-October.</p> <p class=\"paywall-full-content\">The former Amazon (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/AMZN\" title=\"Amazon.com, Inc.\">AMZN</a></span>) CEO said that Americans should work to build a safety cushion for themselves in general, not only in investments, as macroeconomic conditions deteriorate. Overall, he offered general advice to hope for the best, but prepare for the worst given the slew of <a href=\"https://seekingalpha.com/news/3904001-metas-zuckerberg-says-hes-accountable-for-companys-coming-big-layoffs\" target=\"_blank\">major layoffs</a> (<a href=\"https://seekingalpha.com/news/3907222-amazon-plans-to-lay-off-about-10k-employees-nyt\" target=\"_blank\">including at Amazon</a>) rolling through the market and general slowing evident in the overall economy.</p> <p class=\"paywall-full-content\">“I don’t know whether we’re technically in a recession, economists argue over that and they have technical definitions, what I can tell you is that the economy does not look great right now,” <a href=\"https://edition.cnn.com/2022/11/14/business/jeff-bezos-charity/index.html\" target=\"_blank\">he told CNN</a>. “The probabilities say that if we are not in a recession now, we are likely to be in one soon. My advice to people is to take some risk off the table right now.”</p> <p class=\"paywall-full-content\">Read more on FedEx’s <a href=\"https://seekingalpha.com/news/3907386-fedex-to-furlough-freight-workers-through-holiday-season\" target=\"_blank\">decision to furlough workers through the winter</a>.</p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "56355736",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "562",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907597-jeff-bezos-says-hell-donate-bulk-of-124b-fortune-advises-americans-take-risk-off-the-table",
+            "canonical": "https://seekingalpha.com/news/3907597-jeff-bezos-says-hell-donate-bulk-of-124b-fortune-advises-americans-take-risk-off-the-table",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341676182/image_1341676182.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341676182/image_1341676182.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341676182/image_1341676182.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341676182/image_1341676182.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907278",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T12:15:41-05:00",
+            "isLockedPro": false,
+            "commentCount": 9,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355515030/image_1355515030.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "technology": {
+                    "path": "/market-news/technology",
+                    "slug": "technology",
+                    "title": "Tech",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "on-the-move": {
+                    "path": "/market-news/on-the-move",
+                    "slug": "on-the-move",
+                    "title": "On the Move",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Sea drops 7% even as report says company has laid off 7,000 workers over past six months",
+            "lastModified": "2022-11-14T13:02:04-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Sea Limited (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\">SE</a></span>) shares <span class=\"red\">dropped more than 7%</span> on Monday even as The Information <a href=\"https://www.theinformation.com/articles/southeast-asias-biggest-internet-firm-has-laid-off-7-000-workers?rc=fsazw3\" target=\"_blank\">reported</a> that the Asian tech company has let go more than 7,000 employees over the past six months.</li> <li>The news outlet, citing two<span class=\"paywall-full-content\"> people with knowledge of the matter, noted that Sea (</span><a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\" class=\"paywall-full-content\">SE</a><span class=\"paywall-full-content\">), which is Southeast Asia's largest internet company, has embarked on the layoffs in an effort to become profitable.</span> </li> <li class=\"paywall-full-content\">Sea (<a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\">SE</a>) shares have fallen nearly 80% year-to-date.</li> <li class=\"paywall-full-content\">In September, Sea (<a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\">SE</a>) <a href=\"https://seekingalpha.com/news/3883785-sea-limited-cutting-3-of-shopee-workers-in-indonesia\" target=\"_blank\">said</a> it was letting go 3% of its Shopee workers in Indonesia.</li> <li class=\"paywall-full-content\">Earlier this month, J.P. Morgan analyst Ranjan Sharma <a href=\"https://seekingalpha.com/news/3902750-jpmorgan-upgrades-sea-on-profitability-improvement-expectations\" target=\"_blank\">upgraded</a> Sea (<a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\">SE</a>) to overweight from neutral on expectations of improved profitability.</li> <li class=\"paywall-full-content\">Sea (<a href=\"https://seekingalpha.com/symbol/SE\" title=\"Sea Limited\">SE</a>) is scheduled to announce third-quarter results on November 15th <a href=\"https://seekingalpha.com/news/3907237-sea-q3-2022-preview-are-losses-set-to-bottom-out-this-quarter\" target=\"_blank\">before the start of trading</a>.</li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "55407719",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "577086",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907278-sea-drops-7-even-as-report-says-company-has-laid-off-7000-workers-over-past-six-months",
+            "canonical": "https://seekingalpha.com/news/3907278-sea-drops-7-even-as-report-says-company-has-laid-off-7000-workers-over-past-six-months",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355515030/image_1355515030.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355515030/image_1355515030.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355515030/image_1355515030.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355515030/image_1355515030.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907507",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T16:50:26-05:00",
+            "isLockedPro": false,
+            "commentCount": 47,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458887439/image_458887439.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Buffett's Berkshire Hathaway takes new stakes in TSM, LPX and Jefferies",
+            "lastModified": "2022-11-14T16:50:35-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Warren Buffett's Berkshire Hathaway (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BRK.B\" title=\"Berkshire Hathaway Inc.\">BRK.B</a></span>) (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BRK.A\" title=\"Berkshire Hathaway Inc.\">BRK.A</a></span>) took new positions in Taiwan Semiconductor Manufacturing (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/TSM\" title=\"Taiwan Semiconductor Manufacturing Company Limited\">TSM</a></span>) (~60.1M shares), forest products company Louisiana-Pacific (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/LPX\" title=\"Louisiana-Pacific Corporation\">LPX</a></span>) (~5.8M shares), and Jefferies Financial (<span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/JEF\" title=\"Jefferies Financial Group Inc.\">JEF</a></span><span class=\"paywall-full-content\">) (433K) during the quarter ended Sept. 30, 2022, according to its 13F </span><a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000095012322012275/xslForm13F_X01/18337.xml\" target=\"_blank\" class=\"paywall-full-content\">filing</a><span class=\"paywall-full-content\">.</span> </li> <li class=\"paywall-full-content\">The company exited its stakes in Bank of New York Mellon (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BK\" title=\"The Bank of New York Mellon Corporation\">BK</a></span>), VeriSign (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/VRSN\" title=\"VeriSign, Inc.\">VRSN</a></span>), and STORE Capital (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/STOR\" title=\"STORE Capital Corporation\">STOR</a></span>), a company that's <a href=\"https://seekingalpha.com/news/3891798-store-capital-announces-expiration-of-go-shop-period-for-14b-buyout-deal\" target=\"_blank\">scheduled to be acquired</a> in Q1 2023.</li> <li class=\"paywall-full-content\">The gigantic investment firm increased its stakes in Occidental Petroleum (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/OXY\" title=\"Occidental Petroleum Corporation\">OXY</a></span>) to ~194.4M shares from 158.6M shares, Paramount Global (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/PARA\" title=\"Paramount Global\">PARA</a></span>) to ~91M shares from ~78M, Celanese (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/CE\" title=\"Celanese Corporation\">CE</a></span>) to ~9.71M shares from ~9.16M shares, and in Chevron (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/CVX\" title=\"Chevron Corporation\">CVX</a></span>) to ~165M shares from 161M.</li> <li class=\"paywall-full-content\">The company pared holdings in U.S. Bancorp (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/USB\" title=\"U.S. Bancorp\">USB</a></span>) to ~78M shares from ~120M, Activision Blizzard (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ATVI\" title=\"Activision Blizzard, Inc.\">ATVI</a></span>) to ~60M from ~68M, and in General Motors (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/GM\" title=\"General Motors Company\">GM</a></span>) to ~50M from ~53M.</li> <li class=\"paywall-full-content\">Since Sept. 30, 2022, Buffett's Berkshire (<a href=\"https://seekingalpha.com/symbol/BRK.B\" title=\"Berkshire Hathaway Inc.\">BRK.B</a>) has cut <a href=\"https://seekingalpha.com/news/3906686-warren-buffett-trims-stake-in-us-bancorp-to-36\" target=\"_blank\">back on USB shares by even more.</a> </li> <li class=\"paywall-full-content\">Overall, Berkshire was a <a href=\"https://seekingalpha.com/news/3902944-berkshire-hathaway-was-a-net-buyer-of-stocks-in-q3-to-the-tune-of-37b\" target=\"_blank\">net buyer of equity during the quarter.</a> </li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "49447318",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "692",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "12194",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2295",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "600794",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1627",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "9375",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "920",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "167555",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "584",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2335",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "582984",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2319",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1534",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "4721",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "6699",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907507-buffetts-berkshire-hathaway-takes-new-stakes-in-tsm-lpx-and-jefferies",
+            "canonical": "https://seekingalpha.com/news/3907507-buffetts-berkshire-hathaway-takes-new-stakes-in-tsm-lpx-and-jefferies",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458887439/image_458887439.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458887439/image_458887439.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458887439/image_458887439.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458887439/image_458887439.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907515",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T16:55:58-05:00",
+            "isLockedPro": false,
+            "commentCount": 39,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "consumer": {
+                    "path": "/market-news/consumer",
+                    "slug": "consumer",
+                    "title": "Consumer ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                }
+            },
+            "title": "Tesla could be a value stock by the time the Twitter turmoil fades - Morgan Stanley",
+            "lastModified": "2022-11-14T16:55:59-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Morgan Stanley warned that Elon Musk's ownership of Twitter could affect some consumers' sentiment regarding Tesla (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/TSLA\" title=\"Tesla, Inc.\">TSLA</a></span>), but also thinks that weakness could create an opportunity for investors.</p> <p>For the near term, analyst Adam Jonas thinks bearish sentiment<span class=\"paywall-full-content\"> momentum on Tesla (</span><a href=\"https://seekingalpha.com/symbol/TSLA\" title=\"Tesla, Inc.\" class=\"paywall-full-content\">TSLA</a><span class=\"paywall-full-content\">) may not let up.</span></p> <p class=\"paywall-full-content\">\"While it is not possible to quantify any potential impact on Tesla shares, we note that the risk is clearly top of mind from our discussions across a range of investors.\"</p> <p class=\"paywall-full-content\">The bearish sentiment on TSLA is also related to decelerating electric vehicle demand and price cuts in some markets like China, as well as the general valuation reset in the market amid higher interest rates. Jonas and team think it could all add to Tesla (<a href=\"https://seekingalpha.com/symbol/TSLA\" title=\"Tesla, Inc.\">TSLA</a>) shares testing the firm's $150 bear case before the end of the year. That would put Tesla at 12.5X EV/EBITDA and 23X 2025 price-to-earnings - a level Morgan Stanley said would provide excellent value for a self-funded, 20 to 30% top-line grower in a top position to benefit from onshoring trends in the renewable supply chain industry.</p> <p class=\"paywall-full-content\">Morgan Stanley still has an Overweight rating on Tesla and price target of $330, which is more than 70% higher than the current trading level. The 52-week high on TSLA is $402.67.</p> <p class=\"paywall-full-content\">Read the latest breakdowns on <a href=\"https://seekingalpha.com/symbol/TSLA/analysis\" target=\"_blank\">Tesla from Seeking Alpha authors.</a></p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "954720",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "16123",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907515-tesla-could-be-a-value-stock-by-the-time-the-twitter-turmoil-fades-morgan-stanley",
+            "canonical": "https://seekingalpha.com/news/3907515-tesla-could-be-a-value-stock-by-the-time-the-twitter-turmoil-fades-morgan-stanley",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907660",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-15T04:18:36-05:00",
+            "isLockedPro": false,
+            "commentCount": 0,
+            "gettyImageUrl": null,
+            "videoPreviewUrl": null,
+            "themes": {
+                "earnings": {
+                    "path": "/market-news/earnings",
+                    "slug": "earnings",
+                    "title": "Earnings News",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "mid-cap": {
+                    "path": "/",
+                    "slug": "mid-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "breaking-news": {
+                    "path": "/",
+                    "slug": "breaking-news",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Tencent Music Entertainment Non-GAAP EPADS of $0.12 beats by $0.02, revenue of $1.04B beats by $49.33M",
+            "lastModified": "2022-11-15T04:18:37-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<ul>\n<li>Tencent Music Entertainment <a href=\"https://seekingalpha.com/pr/19021390-tencent-music-entertainment-group-announces-third-quarter-2022-unaudited-financial-results\" target=\"_blank\">press release</a>  (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/TME\" title=\"Tencent Music Entertainment Group\">TME</a></span>): Q3  Non-GAAP EPADS of $0.12 <font color=\"green\"> beats by $0.02</font>.</li>\n<li>Revenue of $1.04B (-14.0% Y/Y) <font color=\"green\"> beats by $49.33M</font>.</li>\n<li>Gross margin for the third quarter of 2022 increased by 3.0% to 32.6% from 29.6% in the same period of 2021. </li>\n<li>As of September 30, 2022, the combined balance of the Company's cash, cash equivalents, term deposits and short-term investments amounted to $3.58B.</li>\n</ul>",
+            "metered": false,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "52365730",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "585581",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907660-tencent-music-entertainment-non-gaap-epads-of-012-beats-by-002-revenue-of-104b-beats-by-4933m",
+            "canonical": "https://seekingalpha.com/news/3907660-tencent-music-entertainment-non-gaap-epads-of-012-beats-by-002-revenue-of-104b-beats-by-4933m",
+            "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "schemaImage": {
+                "@type": "ImageObject",
+                "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+            }
+        }
+    },
+    {
+        "id": "3907586",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T18:47:04-05:00",
+            "isLockedPro": false,
+            "commentCount": 4,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/682783694/image_682783694.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "technology": {
+                    "path": "/market-news/technology",
+                    "slug": "technology",
+                    "title": "Tech",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "consumer": {
+                    "path": "/market-news/consumer",
+                    "slug": "consumer",
+                    "title": "Consumer ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                }
+            },
+            "title": "Saudi Arabia sovereign wealth fund ups Meta, Alphabet stakes in Q3, exits Hyzon Motors",
+            "lastModified": "2022-11-14T18:47:11-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Saudi Arabia's sovereign wealth fund increased its stake in Facebook-owner Meta Platforms (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/META\" title=\"Meta Platforms, Inc.\">META</a></span>) and Google-parent Alphabet (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/GOOG\" title=\"Alphabet Inc.\">GOOG</a></span>) (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/GOOGL\" title=\"Alphabet Inc.\">GOOGL</a></span>) in Q3. </p> <p>The Public Investment Fund (PIF) disclosed the information in its <a href=\"https://www.sec.gov/Archives/edgar/data/1767640/000156761922019765/xslForm13F_X01/form13fInfoTable.xml\" target=\"_blank\">latest 13F filing</a> for<span class=\"paywall-full-content\"> the three months ended Sept. 30, 2022, published earlier on Monday.</span></p> <p class=\"paywall-full-content\">PIF held about 3.26M class A shares in META as of Q3-end, making this the second quarter in a row the fund had upped its stake in the Mark Zuckerberg-led company.</p> <p class=\"paywall-full-content\">PIF had <a href=\"https://seekingalpha.com/news/3840102-saudi-arabia-sovereign-wealth-fund-takes-stakes-in-meta-platforms-sea\" target=\"_blank\">initially revealed a stake</a> of 418K class A shares in META in Q1, which it <a href=\"https://seekingalpha.com/news/3873716-saudi-arabia-sovereign-wealth-fund-takes-stakes-in-amazon-microsoft-amd-jpmorgan\" target=\"_blank\">had increased</a> to 2.94M by the end of Q2.</p> <p class=\"paywall-full-content\">The fund's growing stake comes even as META stock has been hammered this year, having fallen ~66% YTD.</p> <p class=\"paywall-full-content\">PIF also significantly raised its stake in Alphabet (<a href=\"https://seekingalpha.com/symbol/GOOG\" title=\"Alphabet Inc.\">GOOG</a>) (<a href=\"https://seekingalpha.com/symbol/GOOGL\" title=\"Alphabet Inc.\">GOOGL</a>) to 4.26M capital stock class A shares from 213K previously.</p> <p class=\"paywall-full-content\">Among other changes, PIF dropped its stake of more than 8M shares in electric vehicle company Hyzon Motors (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/HYZN\" title=\"Hyzon Motors Inc.\">HYZN</a></span>). </p> <p class=\"paywall-full-content\">PIF's increase of its holdings in Meta (<a href=\"https://seekingalpha.com/symbol/META\" title=\"Meta Platforms, Inc.\">META</a>) and Alphabet (<a href=\"https://seekingalpha.com/symbol/GOOG\" title=\"Alphabet Inc.\">GOOG</a>) (<a href=\"https://seekingalpha.com/symbol/GOOGL\" title=\"Alphabet Inc.\">GOOGL</a>) and its exit out of Hyzon Motors (<a href=\"https://seekingalpha.com/symbol/HYZN\" title=\"Hyzon Motors Inc.\">HYZN</a>) were the only significant portfolio changes made by the sovereign wealth fund in Q3 - a stark contrast from Q2 in which it had been particularly busy.</p> <p class=\"paywall-full-content\">PIF kept its stake in major names such as Amazon (<a href=\"https://seekingalpha.com/symbol/AMZN\" title=\"Amazon.com, Inc.\">AMZN</a>), Alibaba (<a href=\"https://seekingalpha.com/symbol/BABA\" title=\"Alibaba Group Holding Limited\">BABA</a>), BlackRock (<a href=\"https://seekingalpha.com/symbol/BLK\" title=\"BlackRock, Inc.\">BLK</a>), Microsoft (<a href=\"https://seekingalpha.com/symbol/MSFT\" title=\"Microsoft Corporation\">MSFT</a>), PayPal (<a href=\"https://seekingalpha.com/symbol/PYPL\" title=\"PayPal Holdings, Inc.\">PYPL</a>), FedEx (<a href=\"https://seekingalpha.com/symbol/FDX\" title=\"FedEx Corporation\">FDX</a>), Home Depot (<a href=\"https://seekingalpha.com/symbol/HD\" title=\"The Home Depot, Inc.\">HD</a>), Salesforce (<a href=\"https://seekingalpha.com/symbol/CRM\" title=\"Salesforce, Inc.\">CRM</a>), Visa (<a href=\"https://seekingalpha.com/symbol/V\" title=\"Visa Inc.\">V</a>) and Walmart (<a href=\"https://seekingalpha.com/symbol/WMT\" title=\"Walmart Inc.\">WMT</a>) unchanged. </p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "56228617",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "36222",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "544",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "148893",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "606556",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": [
+                    {
+                        "id": "56",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "562",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "575",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "799",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "954",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1273",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2150",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "9691",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "137271",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "503436",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907586-saudi-arabia-sovereign-wealth-fund-ups-meta-alphabet-stakes-in-q3-exits-hyzon-motors",
+            "canonical": "https://seekingalpha.com/news/3907586-saudi-arabia-sovereign-wealth-fund-ups-meta-alphabet-stakes-in-q3-exits-hyzon-motors",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/682783694/image_682783694.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/682783694/image_682783694.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/682783694/image_682783694.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/682783694/image_682783694.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907552",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T17:38:45-05:00",
+            "isLockedPro": false,
+            "commentCount": 4,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/151703280/image_151703280.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Soros Fund Management takes new positions in Sierra Wireless, Booking, Agree Realty",
+            "lastModified": "2022-11-14T17:39:51-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>George Soros's Soros Fund Management took new stakes in Sierra Wireless (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/SWIR\" title=\"Sierra Wireless, Inc.\">SWIR</a></span>), with 1.39M shares, Booking Holdings (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/BKNG\" title=\"Booking Holdings Inc.\">BKNG</a></span>), with 10K shares, Agree Realty (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/ADC\" title=\"Agree Realty Corporation\">ADC</a></span>), with 231K shares, Sarepta Therapeutics (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/SRPT\" title=\"Sarepta Therapeutics, Inc.\" class=\"paywall-full-content\">SRPT</a></span><span class=\"paywall-full-content\">), with 101K, Union Pacific (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/UNP\" title=\"Union Pacific Corporation\">UNP</a></span><span class=\"paywall-full-content\">), with 57K shares, Vulcan Materials Company (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/VMC\" title=\"Vulcan Materials Company\">VMC</a></span><span class=\"paywall-full-content\">), with 70K shares, and Teledyne Technologies (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/TDY\" title=\"Teledyne Technologies Incorporated\">TDY</a></span><span class=\"paywall-full-content\">), with 31K shares, in the third quarter, according to its </span><a href=\"https://www.sec.gov/Archives/edgar/data/1029160/000090266422004896/xslForm13F_X01/infotable.xml\" target=\"_blank\" class=\"paywall-full-content\">13F</a><span class=\"paywall-full-content\"> filing dated Monday.</span> </li> <li class=\"paywall-full-content\">The fund exited its holdings in Albertsons Companies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/ACI\" title=\"Albertsons Companies, Inc.\">ACI</a></span>), Kinder Morgan (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/KMI\" title=\"Kinder Morgan, Inc.\">KMI</a></span>), Opendoor Technologies (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/OPEN\" title=\"Opendoor Technologies Inc.\">OPEN</a></span>), Camping World Holdings (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/CWH\" title=\"Camping World Holdings, Inc.\">CWH</a></span>), Ross Stores (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ROST\" title=\"Ross Stores, Inc.\">ROST</a></span>), The Williams Companies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/WMB\" title=\"The Williams Companies, Inc.\">WMB</a></span>) and Illumina (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ILMN\" title=\"Illumina, Inc.\">ILMN</a></span>).</li> <li class=\"paywall-full-content\">Increased its positions in BNY Mellon (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BK\" title=\"The Bank of New York Mellon Corporation\">BK</a></span>) to 401K shares from 5K shares, Walt Disney (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/DIS\" title=\"The Walt Disney Company\">DIS</a></span>) to 123K shares from 28K shares, Uber Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/UBER\" title=\"Uber Technologies, Inc.\">UBER</a></span>) to 517K shares from 300K shares, and Atlassian (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/TEAM\" title=\"Atlassian Corporation\">TEAM</a></span>) to 86K shares from 69K shares.</li> <li class=\"paywall-full-content\">Reduced its stakes in Liberty Broadband (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/LBRDK\" title=\"Liberty Broadband Corporation\">LBRDK</a></span>) to 1.38M shares from 1.74M shares, D.R. Horton (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/DHI\" title=\"D.R. Horton, Inc.\">DHI</a></span>) to 2.61M shares from 2.97M shares, and Analog Devices (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ADI\" title=\"Analog Devices, Inc.\">ADI</a></span>) to 78K shares from 124K shares.</li> <li class=\"paywall-full-content\">During the second quarter, Soros Fund Management opened new positions in <a href=\"https://seekingalpha.com/news/3873036-soros-fund-management-takes-new-stakes-in-gcp-biohaven-tesla\" target=\"_blank\">GCP, Biohaven, Tesla</a>.</li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "54370868",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "1299",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2182",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "464505",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "547506",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "518266",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "86",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2335",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2130",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1357",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1255",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "568817",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "607351",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "220",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "584585",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "4155",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "4116",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1865",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1642",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "3007",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "581",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1584",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "616530",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907552-soros-fund-management-takes-new-positions-in-sierra-wireless-booking-agree-realty",
+            "canonical": "https://seekingalpha.com/news/3907552-soros-fund-management-takes-new-positions-in-sierra-wireless-booking-agree-realty",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/151703280/image_151703280.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/151703280/image_151703280.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/151703280/image_151703280.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/151703280/image_151703280.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907568",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T18:10:01-05:00",
+            "isLockedPro": false,
+            "commentCount": 16,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141804529/image_1141804529.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Steve Cohen's Point72 enters Dell, EOG, Intuit, exits Nike, McDonald's, Coca-Cola",
+            "lastModified": "2022-11-14T18:10:03-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Point 72 Asset Management, the hedge fund led by billionaire investor Steve Cohen, has taken new bets during Q3 in Workday (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/WDAY\" title=\"Workday, Inc.\">WDAY</a></span>), with 1.06M shares, Dell Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/DELL\" title=\"Dell Technologies Inc.\">DELL</a></span>), with 4.07M shares, EOG Resources (<span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/EOG\" title=\"EOG Resources, Inc.\">EOG</a></span><span class=\"paywall-full-content\">), with 1.17M shares, Cenovus Energy (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/CVE\" title=\"Cenovus Energy Inc.\">CVE</a></span><span class=\"paywall-full-content\">), with 8.37M shares, and Intuit (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/INTU\" title=\"Intuit Inc.\">INTU</a></span><span class=\"paywall-full-content\">), with 264K shares, according to its </span><a href=\"https://www.sec.gov/Archives/edgar/data/1603466/000156761922020123/xslForm13F_X01/form13fInfoTable.xml\" target=\"_blank\" class=\"paywall-full-content\">13F</a><span class=\"paywall-full-content\"> filing dated Monday.</span> </li> <li class=\"paywall-full-content\">The fund increased its positions in Biogen (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/BIIB\" title=\"Biogen Inc.\">BIIB</a></span>) to 1.67M shares from 455K shares, Alibaba (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BABA\" title=\"Alibaba Group Holding Limited\">BABA</a></span>) to 3.53M ADSs from 598K ADSs, AstraZeneca (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/AZN\" title=\"AstraZeneca PLC\">AZN</a></span>) to 4.81M ADRs from 1.97M ADRs, and Microsoft (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/MSFT\" title=\"Microsoft Corporation\">MSFT</a></span>) to 957K shares from 386K shares.</li> <li class=\"paywall-full-content\">It exited stakes in the following names: Coca-Cola (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/KO\" title=\"The Coca-Cola Company\">KO</a></span>), Suncor Energy (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/SU\" title=\"Suncor Energy Inc.\">SU</a></span>), Nike (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/NKE\" title=\"NIKE, Inc.\">NKE</a></span>), Alteryx (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/AYX\" title=\"Alteryx, Inc.\">AYX</a></span>), McDonald's (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/MCD\" title=\"McDonald's Corporation\">MCD</a></span>), Kraft Heinz (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/KHC\" title=\"The Kraft Heinz Company\">KHC</a></span>) and Six Flags Entertainment (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/SIX\" title=\"Six Flags Entertainment Corporation\">SIX</a></span>).</li> <li class=\"paywall-full-content\">Pared its holdings in Uber Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/UBER\" title=\"Uber Technologies, Inc.\">UBER</a></span>) to 52K shares from 7.28M shares, Advanced Micro Devices (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/AMD\" title=\"Advanced Micro Devices, Inc.\">AMD</a></span>) to 236K shares from 1.57M shares, and ConocoPhillips (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/COP\" title=\"ConocoPhillips\">COP</a></span>) to 352K shares from 1.82M shares.</li> <li class=\"paywall-full-content\">In mid-October, Point72 disclosed 7.3% ownership in <a href=\"https://seekingalpha.com/news/3891929-rlmd-stock-spikes-as-steve-cohens-point72-discloses-stake\" target=\"_blank\">Relmada Therapeutics</a>.</li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "54370868",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "919",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1016",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "518266",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "3619",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "50821",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "781",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "572869",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "917",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1974",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "791",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "575",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2094",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "137271",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1083",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2186",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "15121",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1961",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "569700",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "49301",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "618341",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "616637",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907568-steve-cohens-point72-enters-dell-eog-intuit-exits-nike-mcdonalds-coca-cola",
+            "canonical": "https://seekingalpha.com/news/3907568-steve-cohens-point72-enters-dell-eog-intuit-exits-nike-mcdonalds-coca-cola",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141804529/image_1141804529.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141804529/image_1141804529.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141804529/image_1141804529.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141804529/image_1141804529.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907189",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T09:53:31-05:00",
+            "isLockedPro": false,
+            "commentCount": 25,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "technology": {
+                    "path": "/market-news/technology",
+                    "slug": "technology",
+                    "title": "Tech",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Palantir dips as William Blair 'incrementally negative' after rally, startup bankruptcy",
+            "lastModified": "2022-11-14T10:31:11-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Palantir Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/PLTR\" title=\"Palantir Technologies Inc.\">PLTR</a></span>) <span class=\"red\">shares fell nearly 5%</span> on Monday as investment firm William Blair said it had become \"incrementally negative\" after the recent rally in tech stocks as well as a recent bankruptcy filing of a startup<span class=\"paywall-full-content\"> it had invested in.</span></p> <p class=\"paywall-full-content\">Analyst Kamil Mielczarek, who has an underperform rating and $5 price target on Palantir Technologies (<a href=\"https://seekingalpha.com/symbol/PLTR\" title=\"Palantir Technologies Inc.\">PLTR</a>) shares, noted that the recent filing of Fast Radius could be a negative for Palantir beyond the drop in asset value. </p> <p class=\"paywall-full-content\">\"In May 2021, Fast Radius entered a $45 million/six-year software agreement with Palantir in connection with Palantir, investing $20 million for 2 million shares of Fast Radius’s equity,\" Mielczarek wrote in a note to clients. \"As a result, there is the potential that Fast Radius’s estimated $9 million annual revenue contribution goes away if the company stops paying Palantir.\"</p> <p class=\"paywall-full-content\">Mielczarek added there is the \"potential\" for more downside if the company's other strategic investments falter, with the analyst noting that the average strategic investment \" is down 82% from Palantir’s purchase price.\"</p> <p class=\"paywall-full-content\">Palantir (<a href=\"https://seekingalpha.com/symbol/PLTR\" title=\"Palantir Technologies Inc.\">PLTR</a>) generated $28.1M in revenue from strategic investments in its September quarter, down from $39.2M in the prior quarter.</p> <p class=\"paywall-full-content\">\"We believe that the churn of such strategic revenue could be detrimental to Palantir’s profit margins,\" Mielczarek explained.</p> <p class=\"paywall-full-content\">Last week, Palantir Technologies (<a href=\"https://seekingalpha.com/symbol/PLTR\" title=\"Palantir Technologies Inc.\">PLTR</a>) was selected to <a href=\"https://seekingalpha.com/news/3903434-palantir-expands-work-in-australia-with-westrac-partnership\" target=\"_blank\">deploy its Foundry solution across WesTrac's servicing and rebuild operations centers in Perth, Western Australia</a>.</p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "55407719",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "554416",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907189-palantir-dips-as-william-blair-incrementally-negative-after-rally-startup-bankruptcy",
+            "canonical": "https://seekingalpha.com/news/3907189-palantir-dips-as-william-blair-incrementally-negative-after-rally-startup-bankruptcy",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907589",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T18:50:13-05:00",
+            "isLockedPro": false,
+            "commentCount": 7,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "small-cap": {
+                    "path": "/",
+                    "slug": "small-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Seth Klarman's Baupost adds Lithia Motors, FIS, exits Intel, NexStar, Grab in Q3",
+            "lastModified": "2022-11-14T18:50:19-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Baupost Group took new holdings in Lithia Motors (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/LAD\" title=\"Lithia Motors, Inc.\">LAD</a></span>), Fidelity National Information Services (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/FIS\" title=\"Fidelity National Information Services, Inc.\">FIS</a></span>), and Enhabit (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/EHAB\" title=\"Enhabit, Inc.\">EHAB</a></span>) in Q3, while exiting stakes in Intel (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/INTC\" title=\"Intel Corporation\">INTC</a></span>), NexStar Media (<span class=\"ticker-hover-wrapper paywall-full-content\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/NXST\" title=\"Nexstar Media Group, Inc.\">NXST</a></span><span class=\"paywall-full-content\">), Grab Holdings (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/GRAB\" title=\"Grab Holdings Limited\">GRAB</a></span><span class=\"paywall-full-content\">) and Bellring Brands (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/BRBR\" title=\"BellRing Brands, Inc.\">BRBR</a></span><span class=\"paywall-full-content\">), according to the firm's 13F </span><a href=\"https://www.sec.gov/Archives/edgar/data/1061768/000156761922020125/xslForm13F_X01/form13fInfoTable.xml\" target=\"_blank\" class=\"paywall-full-content\">filing </a><span class=\"paywall-full-content\">for Q3 2022.</span> </li> <li class=\"paywall-full-content\">The investment firm, headed by Seth Klarman, increased its stakes in Willis Towers Watson (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/WTW\" title=\"Willis Towers Watson Public Limited Company\">WTW</a></span>) to ~1.29M shares from 927K, Micron Technology (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/MU\" title=\"Micron Technology, Inc.\">MU</a></span>) to~3.29M shares from ~2.74M, and Gray Television (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/GTN\" title=\"Gray Television, Inc.\">GTN</a></span>) to 3.26M from 2.26M.</li> <li class=\"paywall-full-content\">It also reduced its holdings in Liberty Global (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/LBTYK\" title=\"Liberty Global plc\">LBTYK</a></span>) class C shares to 47.9M shares from 48.4M, Qorvo (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/QRVO\" title=\"Qorvo, Inc.\">QRVO</a></span>) to 6.78M shares from 6.97M, and Veritiv (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/VRTV\" title=\"Veritiv Corporation\">VRTV</a></span>) to 3.44M shares from 3.56M shares, among others.</li> <li class=\"paywall-full-content\">In June, Klarman's Baupost disclosed that it increased its stake in<a href=\"https://seekingalpha.com/news/3847627-klarmans-baupost-group-boosts-digitalbridge-stake-to-5\" target=\"_blank\"> DigitalBridge Group to 5%</a>.</li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "49447318",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "621626",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "158985",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "4128",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "5241",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "13075",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "158093",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "483975",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "544",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "3528",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1309",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "5475",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "600231",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "605799",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1017",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "3577",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907589-seth-klarmans-baupost-adds-lithia-motors-fis-exits-intel-nexstar-grab-in-q3",
+            "canonical": "https://seekingalpha.com/news/3907589-seth-klarmans-baupost-adds-lithia-motors-fis-exits-intel-nexstar-grab-in-q3",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907384",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T15:38:44-05:00",
+            "isLockedPro": false,
+            "commentCount": 9,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126216811/image_1126216811.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Tiger Global takes stakes in HubSpot, PayPal in Q3, exits XPeng, Samsara",
+            "lastModified": "2022-11-14T15:47:51-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Chase Coleman's Tiger Global has added new stakes in HubSpot (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/HUBS\" title=\"HubSpot, Inc.\">HUBS</a></span>), with 594K shares, Pagaya Technologies (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/PGY\" title=\"Pagaya Technologies Ltd.\">PGY</a></span>), with 74.38M shares, Taiwan Semiconductor Manufacturing Company (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/TSM\" title=\"Taiwan Semiconductor Manufacturing Company Limited\">TSM</a></span>), with 1.31M ADSs, and PayPal (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/PYPL\" title=\"PayPal Holdings, Inc.\" class=\"paywall-full-content\">PYPL</a></span><span class=\"paywall-full-content\">), with 54K shares, in Q3 2022, according to the hedge fund's </span><a href=\"https://www.sec.gov/Archives/edgar/data/1167483/000091957422006727/xslForm13F_X01/infotable.xml\" target=\"_blank\" class=\"paywall-full-content\">13F</a><span class=\"paywall-full-content\"> filing dated Monday. </span></p> <p class=\"paywall-full-content\">The fund exited a slew of its holdings, including Procore Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/PCOR\" title=\"Procore Technologies, Inc.\">PCOR</a></span>), XPeng (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/XPEV\" title=\"XPeng Inc.\">XPEV</a></span>), 1Life Healthcare (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ONEM\" title=\"1Life Healthcare, Inc.\">ONEM</a></span>), monday.com (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/MNDY\" title=\"monday.com Ltd.\">MNDY</a></span>), Samsara (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/IOT\" title=\"Samsara Inc.\">IOT</a></span>) and GitLab (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/GTLB\" title=\"GitLab Inc.\">GTLB</a></span>). </p> <p class=\"paywall-full-content\">The firm downsized its investments in CrowdStike Holdings (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/CRWD\" title=\"CrowdStrike Holdings, Inc.\">CRWD</a></span>) to 900K shares from 6.55M shares, Nu Holdings (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/NU\" title=\"Nu Holdings Ltd.\">NU</a></span>) to 46.31M shares from 203.01M shares, JD.com (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/JD\" title=\"JD.com, Inc.\">JD</a></span>) to 29.86M ADRs from 30.52M ADRs, and Meta Platforms (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/META\" title=\"Meta Platforms, Inc.\">META</a></span>) to 4.48M shares from 4.49M shares. </p> <p class=\"paywall-full-content\">It boosted its holdings in Datadog (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/DDOG\" title=\"Datadog, Inc.\">DDOG</a></span>) to 5.77M shares from 1.81M shares, Workday (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/WDAY\" title=\"Workday, Inc.\">WDAY</a></span>) to 4.17M shares from 1.35M shares, Alphabet (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/GOOGL\" title=\"Alphabet Inc.\">GOOGL</a></span>) to 5.47M shares from 110K shares, Uber Technologies (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/UBER\" title=\"Uber Technologies, Inc.\">UBER</a></span>) to 9.92M shares from 619K shares, and in Block (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/SQ\" title=\"Block, Inc.\">SQ</a></span>) to 3.79M shares from 950K shares. </p> <p class=\"paywall-full-content\">Previously, (Nov. 7) Tiger Global turns in 5.4% loss in October despite <a href=\"https://seekingalpha.com/news/3903037-tiger-global-turns-in-54-loss-in-october-despite-sp-500s-8-surge-report\" target=\"_blank\">S&amp;P 500's 8% surge</a>. </p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "54370868",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "542576",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "518266",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "148893",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "49301",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "600098",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "36222",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "153223",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "613604",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "122301",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "612854",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "613922",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "610367",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "601036",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "605114",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "601252",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "503436",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1534",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "608679",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "166535",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907384-tiger-global-adds-stake-in-hubspot-paypal-in-q3-exits-xpeng-samsara",
+            "canonical": "https://seekingalpha.com/news/3907384-tiger-global-adds-stake-in-hubspot-paypal-in-q3-exits-xpeng-samsara",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126216811/image_1126216811.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126216811/image_1126216811.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126216811/image_1126216811.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126216811/image_1126216811.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907364",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T14:30:51-05:00",
+            "isLockedPro": false,
+            "commentCount": 19,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "small-cap": {
+                    "path": "/",
+                    "slug": "small-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "market-news-reits": {
+                    "path": "/",
+                    "slug": "market-news-reits",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "consumer": {
+                    "path": "/market-news/consumer",
+                    "slug": "consumer",
+                    "title": "Consumer ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                }
+            },
+            "title": "Michael Burry's firm takes new positions in Aerojet Rocketdyne, Charter and Qurate Retail in Q3; adds more Geo Group",
+            "lastModified": "2022-11-14T14:30:53-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Scion Asset Management disclosed its buying action during Q3 in a new SEC filing released on Monday.</p> <p>Of note, Michael Burry's firm more than tripled its holdings in Geo Group (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/GEO\" title=\"The GEO Group, Inc.\">GEO</a></span>) to over 2M shares.</p> <p>New positions<span class=\"paywall-full-content\"> added during the quarter included 132.6K shares of space and defense contractor Aerojet Rocketdyne Holdings Inc. (</span><a href=\"https://seekingalpha.com/symbol/AJRD\" title=\"Aerojet Rocketdyne Holdings, Inc.\" class=\"paywall-full-content\">AJRD</a><span class=\"paywall-full-content\">) </span><span class=\"green paywall-full-content\">+1.05%</span><span class=\"paywall-full-content\">, 10K shares of Charter Communications (</span><a href=\"https://seekingalpha.com/symbol/CHTR\" title=\"Charter Communications, Inc.\" class=\"paywall-full-content\">CHTR</a><span class=\"paywall-full-content\">) </span><span class=\"red paywall-full-content\">-0.55%</span><span class=\"paywall-full-content\">, 724.9K shares of prison operator CoreCivic Inc. (</span><a href=\"https://seekingalpha.com/symbol/CXW\" title=\"CoreCivic, Inc.\" class=\"paywall-full-content\">CXW</a><span class=\"paywall-full-content\">) </span><span class=\"green paywall-full-content\">+2.85%</span><span class=\"paywall-full-content\">, and 155.8K shares of telecommunications firm Liberty Latin America (</span><a href=\"https://seekingalpha.com/symbol/LILA\" title=\"Liberty Latin America Ltd.\" class=\"paywall-full-content\">LILA</a><span class=\"paywall-full-content\">) </span><span class=\"green paywall-full-content\">+3.88%</span><span class=\"paywall-full-content\">.</span></p> <p class=\"paywall-full-content\">Scion also took out a new 5M share position in media conglomerate Qurate Retail (<a href=\"https://seekingalpha.com/symbol/QRTEA\" title=\"Qurate Retail, Inc.\">QRTEA</a>), which rose <span class=\"green\">6.25%</span> during the session. QRTEA and GEO were Scion's two largest holdings by market value at the end of the quarter.</p> <p class=\"paywall-full-content\">Earlier in the year, Scion had sold out of all of its positions with the exception of GEO.</p> <p class=\"paywall-full-content\">Michael Burry has been getting some extra attention this year due to the downward swing of the market, as well as the sudden collapse of meme stocks and the crypto sector in particular. On October 1, Burry compared the current market to the bubble of 2000, spelling doom for \"darling better businesses\" while saying value was about to take off.</p> <p class=\"paywall-full-content\">Read more detailed breakdown on Burry's warnings from <a href=\"https://seekingalpha.com/article/4548355-vti-michael-burrys-warning\" target=\"_blank\">Seeking Alpha author Jordan Sauer.</a></p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "954720",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "6284",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": [
+                    {
+                        "id": "3341",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "3601",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "4275",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "16954",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "530805",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907364-michael-burrys-firm-takes-new-positions-in-aerojet-rocketdyne-charter-and-qurate-retail-in-q3-adds-more-geo-group",
+            "canonical": "https://seekingalpha.com/news/3907364-michael-burrys-firm-takes-new-positions-in-aerojet-rocketdyne-charter-and-qurate-retail-in-q3-adds-more-geo-group",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/498541178/image_498541178.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907571",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T18:24:49-05:00",
+            "isLockedPro": false,
+            "commentCount": 8,
+            "gettyImageUrl": null,
+            "videoPreviewUrl": null,
+            "themes": {
+                "earnings": {
+                    "path": "/market-news/earnings",
+                    "slug": "earnings",
+                    "title": "Earnings News",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "on-the-move": {
+                    "path": "/market-news/on-the-move",
+                    "slug": "on-the-move",
+                    "title": "On the Move",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "breaking-news": {
+                    "path": "/",
+                    "slug": "breaking-news",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Nu Holdings reports Q3 results",
+            "lastModified": "2022-11-14T18:24:50-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<ul>\n<li>Nu Holdings <a href=\"https://seekingalpha.com/pr/19020781-nu-holdings-ltd-reports-third-quarter-2022-financial-results\" target=\"_blank\">press release</a>  (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/NU\" title=\"Nu Holdings Ltd.\">NU</a></span>): Q3 Adjusted Net Income of $63.1M.</li>\n<li>Revenue of $1.3B <font color=\"green\"> beats by $120M</font>.</li>\n<li>Nu maintains significant excess liquidity with a loan-to-deposit ratio of 25%. On September 30, 2022, Nu had an interest-earning portfolio of $3.5 billion, while total deposits were four times this amount at $14.0 billion.</li>\n<li>Shares <font color=\"green\">+14.94%</font> AH.</li>\n</ul>",
+            "metered": false,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "49282475",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "613604",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907571-nu-holdings-reports-q3-results",
+            "canonical": "https://seekingalpha.com/news/3907571-nu-holdings-reports-q3-results",
+            "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "schemaImage": {
+                "@type": "ImageObject",
+                "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+            }
+        }
+    },
+    {
+        "id": "3907368",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T14:47:28-05:00",
+            "isLockedPro": false,
+            "commentCount": 7,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "etfs": {
+                    "path": "/",
+                    "slug": "etfs",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "na-cap": {
+                    "path": "/",
+                    "slug": "na-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "GTA views the October low as a short- and intermediate-bottom that won’t be retested any time soon",
+            "lastModified": "2022-11-14T15:13:08-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>The October trading low in the S&amp;P 500 had marked a key technical point for short term levels, but according to Global Trend Alert the October low handle is now an intermediate bottom level as well.</p> <p>GTA outlined<span class=\"paywall-full-content\"> in a recent investor note: “After the market reached an extremely oversold level in mid-October, we felt very strongly that an important short-term bottom had been put into place. And this is why, since then, we’ve repeatedly stressed that the probabilities favor that those October 13th lows won’t be violated any time soon.”</span></p> <p class=\"paywall-full-content\">The report continued with: “We now feel that those October lows were not only important short term bottoms, but were also intermediate term in nature.”</p> <p class=\"paywall-full-content\">Moreover, GTA highlighted that they also have lessened to the effect their shorting positions as they stated that: “We would no longer do new shorting, and would instead look to do aggressive reducing in shorts.”</p> <p class=\"paywall-full-content\">Since Wall Street dropped to it 2022 low on October 13<sup>th</sup>, it has since rallied <span class=\"green\">14.4%</span> and crossed above its 100-day moving average.</p> <p class=\"paywall-full-content\">See a below chart of the October 13<sup>th</sup> low that the S&amp;P 500 (<a href=\"https://seekingalpha.com/symbol/SP500\" title=\"S&amp;P 500 Index\">SP500</a>) and its mirroring (<span class=\"ticker-hover-wrapper\">NYSEARCA:<a href=\"https://seekingalpha.com/symbol/SPY\" title=\"SPDR S&amp;P 500 Trust ETF\">SPY</a></span>) exchange traded fund are referenced to.</p> <p class=\"paywall-full-content\"><a href=\"https://static.seekingalpha.com/uploads/2022/11/14/saupload_Picture1_1.png\" rel=\"lightbox\"><img src=\"https://static.seekingalpha.com/uploads/2022/11/14/saupload_Picture1_1_thumb1.png\" width=\"100%\"></a></p> <p class=\"paywall-full-content\">In broader financial news, Wall Street's major indices had made modest gains in a <a href=\"https://seekingalpha.com/news/3907226-nasdaq-dow-jones-sp-500-stocks-retail-earnings\" target=\"_blank\">volatile trading session on Monday.</a></p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "53367831",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "587766",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "54",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907368-gta-views-the-october-low-as-a-short-intermediate-bottom-that-wont-be-touched-any-time-soon",
+            "canonical": "https://seekingalpha.com/news/3907368-gta-views-the-october-low-as-a-short-intermediate-bottom-that-wont-be-touched-any-time-soon",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907207",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T10:31:56-05:00",
+            "isLockedPro": false,
+            "commentCount": 16,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179324818/image_1179324818.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "healthcare": {
+                    "path": "/market-news/healthcare",
+                    "slug": "healthcare",
+                    "title": "Healthcare ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "mid-cap": {
+                    "path": "/",
+                    "slug": "mid-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "market-news-reits": {
+                    "path": "/",
+                    "slug": "market-news-reits",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "BofA upgrades Medical Properties to Buy, cuts Omega Healthcare, Sabra",
+            "lastModified": "2022-11-14T10:48:56-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Bank of America analyst Joshua Dennerlein has made rating changes for three healthcare REITs on Monday to reflect updated risk-reward profiles for the year ahead. That includes upgrading Medical Properties Trust (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/MPW\" title=\"Medical Properties Trust, Inc.\">MPW</a></span>) to<span class=\"paywall-full-content\"> Buy from Neutral, downgrading Omega Healthcare Investors (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/OHI\" title=\"Omega Healthcare Investors, Inc.\">OHI</a></span><span class=\"paywall-full-content\">) to Neutral from Buy, and cutting Sabra Health Care (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/SBRA\" title=\"Sabra Health Care REIT, Inc.\">SBRA</a></span><span class=\"paywall-full-content\">) to Underperform from Neutral. </span></p> <p class=\"paywall-full-content\">For Medical Properties (<a href=\"https://seekingalpha.com/symbol/MPW\" title=\"Medical Properties Trust, Inc.\">MPW</a>), in particular, Dennerlein pointed out some forward-looking positive catalysts, including \"(1) we expect the Steward ABL to be permanently extended in December, (2) management has alluded to a multi-party transaction involving Prospect,\" he wrote in a note. </p> <p class=\"paywall-full-content\">In addition, \"(3) tenants should start to see improving fundamentals from payor rate hikes, improving labor markets and slowing inflation, and (4) a pivot to a more dovish Fed is a positive for this high yielding REIT.\"</p> <p class=\"paywall-full-content\">At the same time, though, Omega (<a href=\"https://seekingalpha.com/symbol/OHI\" title=\"Omega Healthcare Investors, Inc.\">OHI</a>) and Sabra (<a href=\"https://seekingalpha.com/symbol/SBRA\" title=\"Sabra Health Care REIT, Inc.\">SBRA</a>), both of which invest in skilled nursing facilities, could be seen at a disadvantage given the likely termination of the Federal public health emergency on January 11, 2023, the note read. </p> <p class=\"paywall-full-content\">Seeking Alpha contributor Steven Fiorillo views Omega (<a href=\"https://seekingalpha.com/symbol/OHI\" title=\"Omega Healthcare Investors, Inc.\">OHI</a>) as a Buy, calling it an <a href=\"https://seekingalpha.com/article/4556691-omega-healthcare-stock-8-percent-yielding-dividend-machine-q3-earnings-positive-guidance\" target=\"_blank\">\"8% yielding dividend machine.\"</a> Fellow SA contributor Jussi Askola justifies Medical Properties with a Strong Buy rating following the hospital REIT's <a href=\"https://seekingalpha.com/news/3896392-medical-properties-ffo-of-0_45-in-line-revenue-of-352_34m-misses-36_68m\" target=\"_blank\">third-quarter results</a>. </p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "54370868",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "16835",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "5949",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "9956",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907207-bofa-upgrades-medical-properties-to-buy-cuts-omega-healthcare-sabra",
+            "canonical": "https://seekingalpha.com/news/3907207-bofa-upgrades-medical-properties-to-buy-cuts-omega-healthcare-sabra",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179324818/image_1179324818.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179324818/image_1179324818.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179324818/image_1179324818.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179324818/image_1179324818.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907219",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T11:10:42-05:00",
+            "isLockedPro": false,
+            "commentCount": 21,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252617520/image_1252617520.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "mid-cap": {
+                    "path": "/",
+                    "slug": "mid-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "on-the-move": {
+                    "path": "/market-news/on-the-move",
+                    "slug": "on-the-move",
+                    "title": "On the Move",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "energy": {
+                    "path": "/market-news/energy",
+                    "slug": "energy",
+                    "title": "Energy ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Algonquin Power -30% in two days after weak Q3 results, more downgrades",
+            "lastModified": "2022-11-14T11:12:36-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <p>Algonquin Power &amp; Utilities (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/AQN\" title=\"Algonquin Power &amp; Utilities Corp.\">AQN</a></span>) extends Friday's sharp losses, <span class=\"red\">-13%</span> in Monday's trading, as at least three analysts downgraded the stock after the utility reported a <a href=\"https://seekingalpha.com/news/3906558-algonquin-power-plunges-after-cutting-full-year-earnings-guidance\" target=\"_blank\">larger than expected Q3 adjusted loss</a> and<span class=\"paywall-full-content\"> cut its full-year earnings guidance; shares have plunged 30% in the past two trading sessions.</span></p> <p class=\"paywall-full-content\">TD Securities reduced its rating to Hold from Buy with a $10 price target, cut from $13, BMO Capital cut the stock to Market Perform from Outperform with an $11 PT, down from $17.50, and Desjardins lowered shares to Hold from Buy with an $11.50 PT, cut from $14.50.</p> <p class=\"paywall-full-content\">Algonquin (<a href=\"https://seekingalpha.com/symbol/AQN\" title=\"Algonquin Power &amp; Utilities Corp.\">AQN</a>) now holds a valuation discount to Canadian power peers, which TD Securities said is \"warranted given the lack of clarity for earnings growth prospects and the company's funding platform.\"</p> <p class=\"paywall-full-content\">The stock now trades at depressed levels that offer attractive value, but BMO said \"there are likely increasing risks of a 'strategic' dividend cut and funding needs are still high.\"</p> <p class=\"paywall-full-content\">In its downgrade, Desjardins cited an \"uncertain growth outlook, likely driven by a lack of balance sheet discipline, concerns around upcoming financial results, an elevated payout ratio, and questions on dividend growth and strategy.\"</p> <p class=\"paywall-full-content\">Algonquin Power &amp; Utilities' (<a href=\"https://seekingalpha.com/symbol/AQN\" title=\"Algonquin Power &amp; Utilities Corp.\">AQN</a>) history of big dividend raises is \"now in trouble,\" with an $800M cash flow deficit before dividends which will be \"a big hole to plug,\" Trapping Value writes in an <a href=\"https://seekingalpha.com/article/4557110-algonquin-and-atlantica-sustainable-paying-the-piper\" target=\"_blank\">analysis newly posted on Seeking Alpha</a>.</p>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "543215",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "15536",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "617171",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907219-algonquin-power-30-in-two-days-after-weak-q3-results-forecast",
+            "canonical": "https://seekingalpha.com/news/3907219-algonquin-power-30-in-two-days-after-weak-q3-results-forecast",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252617520/image_1252617520.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252617520/image_1252617520.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252617520/image_1252617520.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252617520/image_1252617520.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907623",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-15T03:52:01-05:00",
+            "isLockedPro": false,
+            "commentCount": 0,
+            "gettyImageUrl": null,
+            "videoPreviewUrl": null,
+            "themes": {
+                "earnings": {
+                    "path": "/market-news/earnings",
+                    "slug": "earnings",
+                    "title": "Earnings News",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "small-cap": {
+                    "path": "/",
+                    "slug": "small-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "guidance": {
+                    "path": "/",
+                    "slug": "guidance",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "breaking-news": {
+                    "path": "/",
+                    "slug": "breaking-news",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "SEMrush reports Q3 earnings beat; raises FY22 guidance and initiates Q4 outlook",
+            "lastModified": "2022-11-15T03:52:02-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<ul> <li>SEMrush <a href=\"https://seekingalpha.com/pr/19021080-semrush-announces-third-quarter-2022-financial-results\" target=\"_blank\">press release</a> (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/SEMR\" title=\"Semrush Holdings, Inc.\">SEMR</a></span>): Q3 GAAP EPS of -$0.06 <span class=\"green\"> beats by $0.03</span>.</li> <li>Revenue of $65.8M (+33.5% Y/Y) <span class=\"green\"> beats by $1.83M</span>.</li> <li>ARR of $267M as of September 30, 2022, up more than 33% year over year.</li> <li>More than 94,000 paying customers<span class=\"paywall-full-content\"> as of September 30, 2022, up more than 17% from a year ago.</span> </li> <li class=\"paywall-full-content\"> <strong>Fourth Quarter 2022 Financial Outlook</strong>: Revenue is expected to be in a range of $67.25 million to $67.75 million, ​​up 25 to 26% year over year vs. consensus of $68.17M; Non-GAAP net loss is expected to be in a range of $12.5 to $11.5 million, which includes incremental $2 to $1 million of one-time relocation costs related to the winding down of our Russia operations.</li> <li class=\"paywall-full-content\"><p><strong>Full-Year 2022 Financial Outlook</strong>: Revenue is expected to be in a range of $252.8 million to $253.3 million vs. consensus of $251.93M, up 34 to 35% year over year; Non-GAAP net loss is expected to be in a range of $26 to $25 million, which includes $11 to $10 million of one-time relocation costs related to the winding down of our Russia operations</p></li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "52365730",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "608933",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907623-semrush-reports-q3-earnings-beat-raises-fy22-guidance-and-initiates-q4-outlook",
+            "canonical": "https://seekingalpha.com/news/3907623-semrush-reports-q3-earnings-beat-raises-fy22-guidance-and-initiates-q4-outlook",
+            "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "schemaImage": {
+                "@type": "ImageObject",
+                "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+            }
+        }
+    },
+    {
+        "id": "3907575",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T18:31:54-05:00",
+            "isLockedPro": false,
+            "commentCount": 2,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1187201824/image_1187201824.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Paulson & Co. takes new stake in Rumble, exits SPDR Gold Trust ETF, DiDi Global",
+            "lastModified": "2022-11-14T18:31:55-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Paulson &amp; Co., the fund headed by John Paulson took a new stake in content platform Rumble (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/RUM\" title=\"Rumble Inc.\">RUM</a></span>) with a 300K-share holding, and exited the SPDR Gold Trust ETF (<span class=\"ticker-hover-wrapper\">NYSEARCA:<a href=\"https://seekingalpha.com/symbol/GLD\" title=\"SPDR Gold Trust ETF\">GLD</a></span>), DiDi Global (<a href=\"https://seekingalpha.com/symbol/DIDIY\" title=\"DiDi Global Inc.\" class=\"paywall-full-content\">OTCPK:DIDIY</a><span class=\"paywall-full-content\">), and Exxon Mobil (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/XOM\" title=\"Exxon Mobil Corporation\">XOM</a></span><span class=\"paywall-full-content\">) in the quarter ended Sept. 30, 2022, according to its 13F</span><a href=\"https://www.sec.gov/Archives/edgar/data/1035674/000156761922020074/xslForm13F_X01/form13fInfoTable.xml\" target=\"_blank\" class=\"paywall-full-content\"> filing</a><span class=\"paywall-full-content\">.</span> </li> <li class=\"paywall-full-content\">The firm pared its stakes in Horizon Therapeutics (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/HZNP\" title=\"Horizon Therapeutics Public Limited Company\">HZNP</a></span>) to 6.10M shares from ~6.20M, APA Corp. (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/APA\" title=\"APA Corporation\">APA</a></span>) to 1.20M shares from 3.00M, Barrick Gold (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/GOLD\" title=\"Barrick Gold Corporation\">GOLD</a></span>) to 1.60M shares from 4.55M, and KraneShares CSI China Internet ETF (<span class=\"ticker-hover-wrapper\">NYSEARCA:<a href=\"https://seekingalpha.com/symbol/KWEB\" title=\"KraneShares CSI China Internet ETF\">KWEB</a></span>) to 2.43M shares from 3.31M.</li> <li class=\"paywall-full-content\">In June, Bausch Health (<a href=\"https://seekingalpha.com/symbol/BHC\" title=\"Bausch Health Companies Inc.\">BHC</a>), in which Paulson &amp; Co. owns 26M shares,<a href=\"https://seekingalpha.com/news/3851409-bausch-health-board-chairman-joseph-papa-resigns-co-taps-john-paulson-as-replacement\" target=\"_blank\"> named John Paulson as its chairman </a>.</li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "49447318",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "34972",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "108672",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1006",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "814",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "554426",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "80",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1198",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "608519",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "616586",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": [
+                    {
+                        "id": "4768",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907575-paulson-co-takes-new-stake-in-rumble-exits-spdr-gold-trust-etf-didi-global",
+            "canonical": "https://seekingalpha.com/news/3907575-paulson-co-takes-new-stake-in-rumble-exits-spdr-gold-trust-etf-didi-global",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1187201824/image_1187201824.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1187201824/image_1187201824.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1187201824/image_1187201824.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1187201824/image_1187201824.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    },
+    {
+        "id": "3907608",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-15T02:01:48-05:00",
+            "isLockedPro": false,
+            "commentCount": 0,
+            "gettyImageUrl": null,
+            "videoPreviewUrl": null,
+            "themes": {
+                "small-cap": {
+                    "path": "/",
+                    "slug": "small-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "dividend-stocks": {
+                    "path": "/",
+                    "slug": "dividend-stocks",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "dividends": {
+                    "path": "/market-news/dividend-stocks",
+                    "slug": "dividends",
+                    "title": "Dividend News",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                }
+            },
+            "title": "Flex LNG declares $0.75 dividend",
+            "lastModified": "2022-11-15T02:01:49-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<ul>\n<li>Flex LNG (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/FLNG\" title=\"FLEX LNG Ltd.\">FLNG</a></span>) declares <a href=\"https://seekingalpha.com/pr/19021296-flex-lng-key-information-relating-to-cash-dividend-to-be-paid-flex-lng-for-third-quarter-2022\" target=\"_blank\">$0.75/share quarterly dividend</a>, in line with previous.</li>\n<li class=\"remove-link-for-mobile\">\n<a href=\"https://seekingalpha.com/symbol/FLNG/dividends/yield?source=news_bullet\" target=\"_blank\">Forward yield</a> 8.61%</li>\n<li>Payable Dec. 6; for shareholders of record Dec. 1; ex-div Nov. 30.</li>\n<li class=\"hide-for-mobile\"><a href=\"https://seekingalpha.com/symbol/FLNG/dividends?source=news_bullet\" target=\"_blank\">See FLNG Dividend Scorecard, Yield Chart, &amp; Dividend Growth.</a></li>\n</ul>",
+            "metered": false,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "52365730",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "599583",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907608-flex-lng-declares-075-dividend",
+            "canonical": "https://seekingalpha.com/news/3907608-flex-lng-declares-075-dividend",
+            "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "schemaImage": {
+                "@type": "ImageObject",
+                "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+            }
+        }
+    },
+    {
+        "id": "3907390",
+        "type": "news",
+        "attributes": {
+            "publishOn": "2022-11-14T16:02:09-05:00",
+            "isLockedPro": false,
+            "commentCount": 10,
+            "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407391938/image_1407391938.jpg",
+            "videoPreviewUrl": null,
+            "themes": {
+                "financials": {
+                    "path": "/market-news/financials",
+                    "slug": "financials",
+                    "title": "Financials ",
+                    "sasource": "theme_breadcrumb",
+                    "non_theme": false
+                },
+                "large-cap": {
+                    "path": "/",
+                    "slug": "large-cap",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "hidden-from-qp": {
+                    "path": "/",
+                    "slug": "hidden-from-qp",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                },
+                "news-metered": {
+                    "path": "/",
+                    "slug": "news-metered",
+                    "title": null,
+                    "sasource": "",
+                    "non_theme": true
+                }
+            },
+            "title": "Druckenmiller's Duquesne adds Amazon, exits Westlake, lowers Microsoft stake",
+            "lastModified": "2022-11-14T16:02:17-05:00",
+            "isExclusive": false,
+            "status": "Active",
+            "content": "<p></p> <ul> <li>Duquesne Family Office added new stakes in Amazon (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/AMZN\" title=\"Amazon.com, Inc.\">AMZN</a></span>) (906K shares), Meta Platforms (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/META\" title=\"Meta Platforms, Inc.\">META</a></span>) (160K), Lamb Weston Holdings (~947K), and Vertiv (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/VRTV\" title=\"Veritiv Corporation\">VRTV</a></span>) (4.93M) to its portfolio during Q3, according to its 13F<a href=\"https://www.sec.gov/Archives/edgar/data/1536411/000153641122000009/0001536411-22-000009-index.htm\" target=\"_blank\"> filing</a>.</li> <li>The firm, led<span class=\"paywall-full-content\"> by Stanley Druckenmiller shed holdings in Westlake (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/WLK\" title=\"Westlake Corporation\">WLK</a></span><span class=\"paywall-full-content\">), Booking Holdings (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/BKNG\" title=\"Booking Holdings Inc.\">BKNG</a></span><span class=\"paywall-full-content\">), Phillips 66 (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/PSX\" title=\"Phillips 66\">PSX</a></span><span class=\"paywall-full-content\">) and Samsara (</span><span class=\"ticker-hover-wrapper paywall-full-content\">NYSE:<a href=\"https://seekingalpha.com/symbol/IOT\" title=\"Samsara Inc.\">IOT</a></span><span class=\"paywall-full-content\">).</span> </li> <li class=\"paywall-full-content\">It lowered stakes in Microsoft (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/MSFT\" title=\"Microsoft Corporation\">MSFT</a></span>) to ~194K shares from ~741K shares, Freeport-McMoRan (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/FCX\" title=\"Freeport-McMoRan Inc.\">FCX</a></span>) to 1.17M shares from 3.23M, and Moderna (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/MRNA\" title=\"Moderna, Inc.\">MRNA</a></span>) to 22K shares from ~208K.</li> <li class=\"paywall-full-content\">During the quarter ended Sept. 30, 2022, the fund increased holdings in Eli Lilly (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/LLY\" title=\"Eli Lilly and Company\">LLY</a></span>) to 485K shares from 297K, Datadog (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/DDOG\" title=\"Datadog, Inc.\">DDOG</a></span>) to 789K vs. 298K, Workday (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/WDAY\" title=\"Workday, Inc.\">WDAY</a></span>) to 241K from 83K, and KBR (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/KBR\" title=\"KBR, Inc.\">KBR</a></span>) to 1.82M shares from 1.30M.</li> <li class=\"paywall-full-content\">In September, Druckenmiller said he hoped the Federal Reserve would \"stick to its guns\"<a href=\"https://seekingalpha.com/news/3886767-druckenmiller-hopes-fed-will-stick-to-its-guns-with-hawkish-monetary-policy\" target=\"_blank\"> in keeping monetary policy tight.</a> </li> </ul>",
+            "metered": true,
+            "correctionReason": null
+        },
+        "relationships": {
+            "author": {
+                "data": {
+                    "id": "49447318",
+                    "type": "newsAuthorUser"
+                }
+            },
+            "sentiments": {
+                "data": []
+            },
+            "primaryTickers": {
+                "data": [
+                    {
+                        "id": "562",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "2787",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "49301",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "600098",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "1421",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "586083",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "698",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "575",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "613922",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "41151",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "581",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "158093",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "36222",
+                        "type": "tag"
+                    },
+                    {
+                        "id": "6322",
+                        "type": "tag"
+                    }
+                ]
+            },
+            "secondaryTickers": {
+                "data": []
+            },
+            "otherTags": {
+                "data": []
+            },
+            "ratingChangeNotice": {}
+        },
+        "links": {
+            "self": "/news/3907390-druckenmillers-duquesne-adds-amazon-exits-westlake-lowers-microsoft-stake",
+            "canonical": "https://seekingalpha.com/news/3907390-druckenmillers-duquesne-adds-amazon-exits-westlake-lowers-microsoft-stake",
+            "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407391938/image_1407391938.jpg?io=getty-c-w750",
+            "schemaImage": [
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407391938/image_1407391938.jpg?io=getty-c-w1280",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407391938/image_1407391938.jpg?io=getty-c-crop-16-9",
+                "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407391938/image_1407391938.jpg?io=getty-c-crop-4-3"
+            ]
+        }
+    }
+]

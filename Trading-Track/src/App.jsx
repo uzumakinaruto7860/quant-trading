@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News } from "./components";
+import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News, Market_Data } from "./components";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
 // import Guage from "./components/Gauge";
@@ -16,6 +16,7 @@ const App = () => {
           {/* ////////////////Route /        ////////////////////////////////////////// */}
           <Route path="/" element={<>
             {/* <Guage /> */}
+
             <div className={`${styles.paddingX} ${styles.flexCenter}`}>
               <div className={`${styles.boxWidth}`}>
                 <Navbar />
@@ -35,9 +36,9 @@ const App = () => {
 
                 <Stats />
                 <Video />
-                <News />
                 <Market_Overview />
                 <Technical />
+                <News />
                 <Prediction />
                 <Testimonials />
                 <Clients />
@@ -66,9 +67,9 @@ const App = () => {
 
                 <Stats />
                 <Video />
-                <News />
                 <Market_Overview />
                 <Technical />
+                <News />
                 <Prediction />
                 <Testimonials />
                 <Clients />

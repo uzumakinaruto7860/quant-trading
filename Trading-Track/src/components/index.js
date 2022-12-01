@@ -13,6 +13,8 @@ import Video from "../components/Video";
 import Technical from "../components/Technical";
 import Ticker from "./Ticker";
 import News from "./News";
+import Technical_Analysis from "./Technical_Analysis";
+import Market_Data from "./Market_Data";
 export {
   Navbar,
   Billing,
@@ -29,4 +31,6 @@ export {
   Technical,
   Ticker,
   News,
+  Technical_Analysis,
+  Market_Data
 };

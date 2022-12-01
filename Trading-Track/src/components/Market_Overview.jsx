@@ -2,13 +2,14 @@ import styles, { layout } from "../style";
 import { MarketOverview } from "react-ts-tradingview-widgets";
 import Gauge from "components-gauge";
 import React, { Component } from "react";
+import Chart from "./Chart";
 
 
 const Market_Overview = () => (
   <section id="product" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
 
-      <MarketOverview colorTheme="dark" height={400} width={600} showFloatingTooltip ></MarketOverview>
+      <MarketOverview colorTheme="dark" height={400} width={600} showFloatingTooltip largeChartUrl="http://localhost:5173/charts"></MarketOverview>
 
     </div>
 
