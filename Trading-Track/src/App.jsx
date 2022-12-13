@@ -3,6 +3,7 @@ import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Fo
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
 import Header from "./Dashboard/components/Header";
+import LoginPage from "./Dashboard/pages/Login";
 // import Guage from "./components/Gauge";
 // import { useMemo } from "react";
 const App = () => {
@@ -82,7 +83,17 @@ const App = () => {
           {/* //////////////////////Route /charts  ///////////////////////////////*/}
           <Route path="/charts" element={<Chart />} />
           {/* ////////////////////////////////Route test for dashboard */}
-          <Route path="/Dashboard" element={<Header />} />
+
+
+          <Route path="/Dashboard" element={
+            <div className="min-h-full h-screen flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+              <div className="max-w-md w-full space-y-8">
+
+                <LoginPage />
+              </div>
+            </div>
+          } />
+
         </Routes>
       </div>
     </Router >
