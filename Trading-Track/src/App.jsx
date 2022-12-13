@@ -2,6 +2,7 @@ import styles from "./style";
 import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News, Market_Data } from "./components";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
+import Header from "./Dashboard/components/Header";
 // import Guage from "./components/Gauge";
 // import { useMemo } from "react";
 const App = () => {
@@ -80,8 +81,8 @@ const App = () => {
           </>} />
           {/* //////////////////////Route /charts  ///////////////////////////////*/}
           <Route path="/charts" element={<Chart />} />
-
-
+          {/* ////////////////////////////////Route test for dashboard */}
+          <Route path="/Dashboard" element={<Header />} />
         </Routes>
       </div>
     </Router >
