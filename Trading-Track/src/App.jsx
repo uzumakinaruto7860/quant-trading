@@ -8,13 +8,15 @@ import SignupPage from "./Dashboard/pages/Signup";
 import Home from "./crypto/pages/Home"
 import Saved from "./crypto/pages/Saved"
 import Crypto from "./crypto/pages/Crypto"
+import { useState } from "react";
+import { SymbolOverview } from "react-ts-tradingview-widgets";
 
 const App = () => {
+  const [search, setSearch] = useState('AUDUSD')
 
   return (
     < Router >
       <div className="bg-primary w-full overflow-hidden">
-
 
         <Routes>
           {/* ////////////////Route /        ////////////////////////////////////////// */}
@@ -40,8 +42,9 @@ const App = () => {
                 {/*  */}
                 <Stats />
                 <Video />
+                <SymbolOverview />
                 <Market_Overview />
-                <Technical />
+                <Technical currency={search} />
                 <News />
                 <Prediction />
                 <Testimonials />

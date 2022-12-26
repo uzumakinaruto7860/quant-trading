@@ -1,32 +1,11 @@
+
 import styles, { layout } from "../style";
 import { useEffect } from "react";
 import { useState } from "react";
-
+import axios from 'axios';
 
 const News = () => {
 
-    const [news, setNews] = useState([])
-    const response = {};
-    useEffect(() => {
-        const getData = async () => {
-            const options = {
-                method: 'GET',
-                headers: {
-                    'X-RapidAPI-Key': 'f4693e8cacmshf1cb4bdb462146bp121510jsne55367585024',
-                    'X-RapidAPI-Host': 'seeking-alpha.p.rapidapi.com'
-                }
-            };
-
-            fetch('https://seeking-alpha.p.rapidapi.com/news/v2/list-trending?until=0&since=0&size=20', options)
-                .then(response => response.json())
-                .then(response => setNews(...news, response.data))
-                .catch(err => console.error(err));
-
-        }
-        getData();
-
-    }, [])
-    console.log(news[0]);
 
     return (
         <>
@@ -41,14 +20,14 @@ const News = () => {
                             <div
                                 className="flex flex-nowrap lg:ml-40 md:ml-20 ml-10 "
                             >
-                                {news.map((eachNews) => {
-                                    // console.log(eachNews.attributes.titles)
-                                    return <div className="inline-block px-3">
-                                        <div
-                                            className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md bg-blue-500 hover:shadow-xl transition-shadow duration-300 ease-in-out"
-                                        >{<h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid eum animi alias quis qui omnis quia quasi nemo voluptatum architecto provident itaque ad, quo ullam ipsum consequatur commodi neque distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, aliquam.</h1>}</div>
-                                    </div>
-                                })}
+
+                                
+                                <div className="inline-block px-3">
+                                    <div
+                                        className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md bg-blue-500 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                                    >{<h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid eum animi alias quis qui omnis quia quasi nemo voluptatum architecto provident itaque ad, quo ullam ipsum consequatur commodi neque distinctio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, aliquam.</h1>}</div>
+                                </div>
+
 
 
                             </div>
