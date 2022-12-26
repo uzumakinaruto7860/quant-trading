@@ -5,10 +5,11 @@ import Chart from "./components/Chart";
 import Header from "./Dashboard/components/Header";
 import LoginPage from "./Dashboard/pages/Login";
 import SignupPage from "./Dashboard/pages/Signup";
-// import Guage from "./components/Gauge";
-// import { useMemo } from "react";
+import Home from "./crypto/pages/Home"
+import Saved from "./crypto/pages/Saved"
+import Crypto from "./crypto/pages/Crypto"
+
 const App = () => {
-  // useMemo(() => Ticker, [])
 
   return (
     < Router >
@@ -80,6 +81,7 @@ const App = () => {
                 <Footer />
               </div>
             </div>
+
           </>} />
           {/* //////////////////////Route /charts  ///////////////////////////////*/}
           <Route path="/charts" element={<Chart />} />
@@ -102,6 +104,7 @@ const App = () => {
               </div>
             </div>
           } />
+
 
         </Routes>
       </div>
