@@ -9,7 +9,7 @@ import Home from "./crypto/pages/Home"
 import Saved from "./crypto/pages/Saved"
 import Crypto from "./crypto/pages/Crypto"
 import { useState } from "react";
-import { SymbolOverview } from "react-ts-tradingview-widgets";
+import SymbolOver from "./components/SymbolOver";
 
 const App = () => {
   const [search, setSearch] = useState('AUDUSD')
@@ -42,7 +42,7 @@ const App = () => {
                 {/*  */}
                 <Stats />
                 <Video />
-                <SymbolOverview />
+                <SymbolOver />
                 <Market_Overview />
                 <Technical currency={search} />
                 <News />

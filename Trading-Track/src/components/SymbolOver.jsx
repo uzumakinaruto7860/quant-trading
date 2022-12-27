@@ -1,16 +1,16 @@
 import React from 'react'
 import { SymbolOverview, SymbolInfo } from "react-ts-tradingview-widgets";
 
-const SymbolOverview = () => {
+const SymbolOver = () => {
     return (
 
-        <>
-            <SymbolInfo colorTheme="light" autosize></SymbolInfo>
+        <div className='my-10'>
+            {/* <SymbolInfo colorTheme="light" autosize></SymbolInfo> */}
             <SymbolOverview colorTheme="dark" isTransparent="True" />
 
-        </>
+        </div>
 
     )
 }
 
-export default SymbolOverview
+export default SymbolOver;
