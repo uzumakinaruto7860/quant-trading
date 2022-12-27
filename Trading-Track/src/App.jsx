@@ -4,9 +4,12 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
 import LoginPage from "./Dashboard/pages/Login";
 import SignupPage from "./Dashboard/pages/Signup";
-
 import { useState } from "react";
 import SymbolOver from "./components/SymbolOver";
+import Dashboard from "/src/Dashboard/MainDashboard/src/pages/Dashboard.jsx"
+import '/src/Dashboard/MainDashboard/src/css/style.css';
+import '/src/Dashboard/MainDashboard/src/charts/ChartjsConfig';
+
 
 const App = () => {
   const [search, setSearch] = useState('GBPUSD')
@@ -39,7 +42,7 @@ const App = () => {
                 {/*  */}
                 <Stats />
                 <Video />
-                <SymbolOver currency={search}/>
+                <SymbolOver currency={search} />
                 <Market_Overview />
                 <Technical currency={search} />
                 <News />
@@ -104,6 +107,10 @@ const App = () => {
               </div>
             </div>
           } />
+          <Route path="/testing" element={
+            <Dashboard />
+          }
+          />
 
 
         </Routes>

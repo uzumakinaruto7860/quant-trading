@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html", "./src/**/*.{js,jsx}"],
+  content: ["./index.html", "./src/**/*.{js,jsx}", "node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}"],
+
   mode: "jit",
   theme: {
     extend: {
@@ -24,7 +25,9 @@ module.exports = {
     },
   },
   plugins: [
-    require('tailwind-scrollbar-hide')
+    require('tailwind-scrollbar-hide'),
+    require('flowbite/plugin')
+
 
   ],
 };
