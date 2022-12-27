@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.1.1",
     "autoprefixer": "^9.8.8",
     "axios": "^1.2.1",
     "lodash.debounce": "^4.0.8",

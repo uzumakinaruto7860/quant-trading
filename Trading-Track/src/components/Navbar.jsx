@@ -1,14 +1,22 @@
 import { useState } from "react";
-
 import { close, menu } from "../assets";
 import { navLinks } from "../constants";
+import { useNavigate } from 'react-router-dom';
+
 const Navbar = () => {
   const [active, setActive] = useState("home");
   const [toggle, setToggle] = useState(false);
+  const navigate = useNavigate();
+
+  const handleOnClick = () => {
+    navigate('/', { replace: true })
+  }
+
+
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <a className="w-[250px] h-[32px] font-medium leading-tight text-3xl mt-0 mb-2 text-white cursor-pointer" onClick={() => { setActive("home"); console.log("logo clicked") }} >Trading-Track</a>
+      <a className="w-[250px] h-[32px] font-medium leading-tight text-3xl mt-0 mb-2 text-white cursor-pointer" onClick={handleOnClick} >Trading-Track</a>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (

@@ -2,17 +2,14 @@ import styles from "./style";
 import { Ticker, Video, Technical, Market_Overview, Prediction, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero, News, Market_Data } from "./components";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Chart from "./components/Chart";
-import Header from "./Dashboard/components/Header";
 import LoginPage from "./Dashboard/pages/Login";
 import SignupPage from "./Dashboard/pages/Signup";
-import Home from "./crypto/pages/Home"
-import Saved from "./crypto/pages/Saved"
-import Crypto from "./crypto/pages/Crypto"
+
 import { useState } from "react";
 import SymbolOver from "./components/SymbolOver";
 
 const App = () => {
-  const [search, setSearch] = useState('AUDUSD')
+  const [search, setSearch] = useState('GBPUSD')
 
   return (
     < Router >
@@ -42,7 +39,7 @@ const App = () => {
                 {/*  */}
                 <Stats />
                 <Video />
-                <SymbolOver />
+                <SymbolOver currency={search}/>
                 <Market_Overview />
                 <Technical currency={search} />
                 <News />
@@ -63,19 +60,19 @@ const App = () => {
             </div>
             <Ticker />
 
-            <div className={`bg-primary ${styles.flexStart}`}>
+            {/* <div className={`bg-primary ${styles.flexStart}`}>
               <div className={`${styles.boxWidth}`}>
                 <Hero />
               </div>
-            </div>
+            </div> */}
 
             <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
               <div className={`${styles.boxWidth}`}>
-
-                <Stats />
-                <Video />
+                <SymbolOver currency={search} />
+                {/* <Stats />
+                <Video /> */}
                 <Market_Overview />
-                <Technical />
+                <Technical currency={search} />
                 <News />
                 <Prediction />
                 <Testimonials />
