@@ -9,10 +9,11 @@ import SymbolOver from "./components/SymbolOver";
 import Dashboard from "/src/Dashboard/MainDashboard/src/pages/Dashboard.jsx"
 import '/src/Dashboard/MainDashboard/src/css/style.css';
 import '/src/Dashboard/MainDashboard/src/charts/ChartjsConfig';
+import Add_Trade from "./Dashboard/MainDashboard/src/components/Add_Trade";
 
 
 const App = () => {
-  const [search, setSearch] = useState('GBPUSD')
+  const [search, setSearch] = useState('EURUSD')
 
   return (
     < Router >
@@ -109,6 +110,10 @@ const App = () => {
           } />
           <Route path="/testing" element={
             <Dashboard />
+          }
+          />
+          <Route path="/addTrade" element={
+            <Add_Trade />
           }
           />
 

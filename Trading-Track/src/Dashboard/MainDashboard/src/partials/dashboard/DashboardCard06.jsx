@@ -7,7 +7,7 @@ import { tailwindConfig } from '../../utils/Utils';
 function DashboardCard06() {
 
   const chartData = {
-    labels: ['Wind', 'Losses'],
+    labels: ['Wins', 'Losses'],
     datasets: [
       {
         label: 'Total Revenue',
