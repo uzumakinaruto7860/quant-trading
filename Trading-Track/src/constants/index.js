@@ -10,8 +10,8 @@ export const navLinks = [
     title: "Charts"
   },
   {
-    id: "overview",
-    title: "Overview",
+    id: "calendar",
+    title: "Calendar",
   },
   {
     id: "technical",

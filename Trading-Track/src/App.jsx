@@ -10,7 +10,8 @@ import Dashboard from "/src/Dashboard/MainDashboard/src/pages/Dashboard.jsx"
 import '/src/Dashboard/MainDashboard/src/css/style.css';
 import '/src/Dashboard/MainDashboard/src/charts/ChartjsConfig';
 import Add_Trade from "./Dashboard/MainDashboard/src/components/Add_Trade";
-
+import AllNews from "./components/AllNews";
+import Calendar from "./components/Calendar";
 
 const App = () => {
   const [search, setSearch] = useState('EURUSD')
@@ -108,6 +109,14 @@ const App = () => {
               </div>
             </div>
           } />
+          <Route path="/news" element={
+            <AllNews currency={search} />
+          }
+          />
+          <Route path="/calendar" element={
+            <Calendar />
+          }
+          />
           <Route path="/testing" element={
             <Dashboard />
           }
