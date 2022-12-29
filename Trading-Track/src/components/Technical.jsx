@@ -2,10 +2,7 @@ import TechnicalAnalysis from "./Technical_Analysis";
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
-import Market_Data from "./Market_Data";
 import { useState } from "react";
-
-
 // const FeatureCard = ({ icon, title, content, index }) => (
 //   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
 //     <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
@@ -40,7 +37,6 @@ const Technical = (props) => {
 
       <div className={`${layout.sectionImg} flex-col`}>
         <TechnicalAnalysis currency={currency} />
-
         {/* {features.map((feature, index) => (
         <FeatureCard key={feature.id} {...feature} index={index} />
       ))} */}

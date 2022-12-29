@@ -30,7 +30,7 @@ const SymbolOver = (props) => {
                 bottomColor='#1F1924'
                 lineWidth="2"
                 noTimeScale="True"
-                width={1600}
+                width={1200}
                 height={550}
             />
 
