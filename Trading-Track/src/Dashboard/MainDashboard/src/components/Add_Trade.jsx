@@ -3,9 +3,8 @@ import { useState } from 'react'
 
 const Add_Trade = () => {
 
-    const [open, setOpen] = useState(0.0);
+    const [open, setOpen] = useState(null);
     const [close, setClose] = useState(0.0);
-
     const handleOpenOnChange = (e) => {
         setOpen(e.target.value);
         console.log(open)
@@ -14,6 +13,7 @@ const Add_Trade = () => {
         setClose(e.target.value);
         console.log(close);
     }
+
 
 
     return (
@@ -62,7 +62,7 @@ const Add_Trade = () => {
                 </div>
 
                 <div className="col-span-2 lg:col-span-1 mx-4 my-4">
-                    <input type="number" className=" border-solid border-gray-400 border-2 p-3 md:text-xl w-full rounded-lg" disabled value={(close - open).toPrecision(4)} placeholder="Lots Difference" />
+                    <input type="text" className=" border-solid border-gray-400 border-2 p-3 md:text-xl w-full rounded-lg" disabled value={open ? ((close - open).toPrecision(4).toString() + " Pips") : "Pips Difference"} placeholder="Lots Difference" />
                 </div>
 
 
