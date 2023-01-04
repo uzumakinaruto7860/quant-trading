@@ -7,11 +7,11 @@ const Add_Trade = () => {
     const [close, setClose] = useState(0.0);
     const handleOpenOnChange = (e) => {
         setOpen(e.target.value);
-        console.log(open)
+        // console.log(open)
     }
     const handleCloseOnChange = (e) => {
         setClose(e.target.value);
-        console.log(close);
+        // console.log(close);
     }
 
 
