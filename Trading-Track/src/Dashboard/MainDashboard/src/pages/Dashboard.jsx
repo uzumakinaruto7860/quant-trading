@@ -17,7 +17,6 @@ import DashboardCard11 from '../partials/dashboard/DashboardCard11';
 import DashboardCard12 from '../partials/dashboard/DashboardCard12';
 import DashboardCard13 from '../partials/dashboard/DashboardCard13';
 import Banner from '../partials/Banner';
-import Add_Trade from '/src/Dashboard/MainDashboard/src/components/Add_Trade.jsx'
 import { useNavigate } from 'react-router-dom'
 
 function Dashboard() {
@@ -25,6 +24,7 @@ function Dashboard() {
 
   const handleOnClick = () => {
     navigate('/addTrade')
+
   }
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
